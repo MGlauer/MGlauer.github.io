@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Ontology Dependency Viewer</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<style>
+  body { font-family: sans-serif; background: #f2f2f2; margin: 20px; }
+  select { margin-right: 10px; font-size: 1em; }
+  #loading { display: none; font-weight: bold; margin: 10px 0; }
+  .class { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 10px 12px; margin-bottom: 12px; }
+  .class.expanded { border-color: steelblue; background: #f8fbff; }
+  .header { cursor: pointer; font-weight: bold; font-size: 1.05em; }
+  .header::before { content: "▶ "; color: steelblue; }
+  .header.expanded::before { content: "▼ "; }
+  .definition { margin-top: 4px; margin-left: 18px; font-size: 0.9em; color: #555; }
+  .deps { margin-top: 10px; margin-left: 24px; padding-left: 12px; border-left: 2px solid #ddd; }
+  .dep { margin-bottom: 10px; }
+  .dep-name a { font-weight: bold; color: steelblue; text-decoration: none; }
+  .dep-name a:hover { text-decoration: underline; }
+  .dep-def { margin-left: 18px; font-size: 0.9em; color: #555; }
+  .dep-cause-toggle { margin-left: 18px; font-size: 0.85em; color: steelblue; cursor: pointer; user-select: none; }
+  .dep-cause { background: #f7f7f7; padding: 4px 8px; border-left: 2px solid #ccc; margin-top: 4px; border-radius: 4px; font-family: monospace; font-size: 0.85em; color: #444; display: none; }
+  .axiom { margin-bottom: 2px; }
+  a.class-link { color: steelblue; text-decoration: none; }
+  a.class-link:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<h2>Ontology Dependency Viewer</h2>
+
+<label for="ontology-select">Ontology:</label>
+<select id="ontology-select"></select>
+
+<label for="version-select">Version:</label>
+<select id="version-select"></select>
+
+<label for="type-select">Dependency Type:</label>
+<select id="type-select"></select>
+
+<div id="loading">Loading...</div>
+<div id="list"></div>
+
+<script>
+    const ontologies = {
+        "OEO": {
+            "versions": ["2.8.0", "2.9.0", "2.10.0"],
+            "folder": "oeo",
+            "file": "oeo-closed"
+        },
+        "PMDco": {
+            "versions": ["3.0.0-main", "3.0.0-alpha"],
+            "folder": "pmd",
+            "file": "pmdco-closed"
+        },
+        "Snomed": {
+            "versions": ["2025-12-15"],
+            "folder": "snomed",
+            "file": "ontology-2025-12-15_13-01-20"
+        }
+    };
+
+    const dependencies = {
+        "Empty": "empty",
+        "Everything": "everything",
+        "Hop": "hop"
+    }
+
+    dependencyFilesMap = {};
+    for (const ontology in ontologies) {
+        dependencyFilesMap[ontology] = {};
+        for (const version of ontologies[ontology].versions) {
+            dependencyFilesMap[ontology][version] = {};
+            for (const dependency in dependencies) {
+                dependencyFilesMap[ontology][version][dependency] = [
+                    `ontologies/${ontologies[ontology].folder}/${version}/${ontologies[ontology].file}_dep_${dependencies[dependency]}.json`,
+                    `ontologies/${ontologies[ontology].folder}/${version}/merged_annotations.json`,
+                ]
+            }
+        }
+    }
+
+// Dropdowns
+const ontologySelect = d3.select("#ontology-select");
+const versionSelect = d3.select("#version-select");
+const typeSelect = d3.select("#type-select");
+
+// Populate ontology dropdown
+ontologySelect.selectAll("option")
+  .data(Object.keys(dependencyFilesMap))
+  .enter()
+  .append("option")
+  .attr("value", d => d)
+  .text(d => d);
+
+// Update type dropdown based on ontology
+function updateVersionDropdown() {
+  const ontology = ontologySelect.node().value;
+  const types = ontologies[ontology].versions;
+  versionSelect.selectAll("option").remove();
+  versionSelect.selectAll("option")
+    .data(types)
+    .enter()
+    .append("option")
+    .attr("value", d => d)
+    .text(d => d);
+}
+
+// Populate ontology dropdown
+typeSelect.selectAll("option")
+  .data(Object.keys(dependencies))
+  .enter()
+  .append("option")
+  .attr("value", d => d)
+  .text(d => d);
+
+// Event handlers
+ontologySelect.on("change", function() { updateVersionDropdown(); loadSelectedFile(); });
+versionSelect.on("change", loadSelectedFile);
+typeSelect.on("change", loadSelectedFile);
+
+// Global annotations
+let annos = {};
+
+function selectEng(labels) {
+    if (!labels) return;
+
+    for (const label of labels) {
+        if (label.lang === "en") {
+            return label.literal;
+        } else if (label.type === "simple") {
+            return label.literal;
+        }
+    }
+    return labels[0].literal;
+}
+
+// Helper functions
+function label(iri) { return selectEng(annos[iri]?.labels) ?? iri; }
+function definition(iri) { return annos[iri]?.definitions?.[0]?.literal ?? "No definition found."; }
+
+// Load selected combination
+function loadSelectedFile() {
+  const ontology = ontologySelect.node().value;
+  const version = versionSelect.node().value;
+  const type = typeSelect.node().value;
+  const [depFile, annoFile] = dependencyFilesMap[ontology][version][type];
+
+  // Show loading and disable dropdowns
+  d3.select("#loading").style("display", "block");
+  ontologySelect.property("disabled", true);
+  typeSelect.property("disabled", true);
+  d3.select("#list").html("");
+
+  Promise.all([fetch(depFile).then(r => r.json()), fetch(annoFile).then(r => r.json())])
+    .then(([deps, annotations]) => {
+      annos = annotations;
+      renderDependencyList(deps);
+      d3.select("#loading").style("display", "none");
+      ontologySelect.property("disabled", false);
+      typeSelect.property("disabled", false);
+    })
+    .catch(err => {
+      console.error(err);
+      d3.select("#loading").text("Failed to load files").style("display", "block");
+      ontologySelect.property("disabled", false);
+      typeSelect.property("disabled", false);
+    });
+}
+
+// Render dependency list
+function renderDependencyList(deps) {
+  const container = d3.select("#list");
+
+  const classes = Object.keys(deps)
+    .map(iri => ({ iri, expanded: false }))
+      .filter(d => deps[d.iri]?.length>0)
+    .sort((a,b) => label(a.iri).localeCompare(label(b.iri), undefined, {sensitivity:"base"}));
+
+  const rows = container.selectAll(".class")
+    .data(classes, d => d.iri)
+    .enter()
+    .append("div")
+    .attr("class","class");
+
+  const header = rows.append("div")
+    .attr("class","header")
+    .on("click", function(event,d){ d.expanded=!d.expanded; render(); });
+
+  header.append("a")
+    .attr("class","class-link")
+    .attr("href", d=>d.iri)
+    .attr("target","_blank")
+    .text(d=>label(d.iri)+" ("+deps[d.iri].length+")")
+    .on("click", event=>event.stopPropagation());
+
+  rows.append("div").attr("class","definition").text(d=>definition(d.iri));
+  rows.append("div").attr("class","deps");
+
+  function render() {
+    rows.classed("expanded", d=>d.expanded);
+    rows.select(".header").classed("expanded", d=>d.expanded);
+
+    rows.select(".deps")
+      .style("display", d=>d.expanded?"block":"none")
+      .each(function(d){
+        const depsDiv=d3.select(this);
+        const directDeps=(deps[d.iri]||[]).slice()
+          .sort((a,b)=>label(a.iri).localeCompare(label(b.iri), undefined,{sensitivity:"base"}));
+
+        const depRows=depsDiv.selectAll(".dep")
+          .data(directDeps,x=>x.iri);
+
+        const depEnter=depRows.enter().append("div").attr("class","dep");
+
+        depEnter.append("div").attr("class","dep-name")
+          .append("a").attr("href",x=>x.iri).attr("target","_blank")
+          .text(x=>label(x.iri))
+          .on("click",event=>event.stopPropagation());
+
+        depEnter.append("div").attr("class","dep-def").text(x=>definition(x.iri));
+
+        depEnter.append("div").attr("class","dep-cause-toggle")
+          .text(x=>x.cause?.length?`Show ${x.cause.length} axiom(s)`:"")
+          .on("click",function(event,x){
+            event.stopPropagation();
+            const causeDiv=d3.select(this.parentNode).select(".dep-cause");
+            const isVisible=causeDiv.style("display")==="block";
+            causeDiv.style("display",isVisible?"none":"block");
+            d3.select(this).text(isVisible?`Show ${x.cause.length} axiom(s)`:"Hide axiom(s)");
+          });
+
+        depEnter.append("div").attr("class","dep-cause").each(function(x){
+          const causeDiv=d3.select(this);
+          const processed=(x.cause||[]).map(axiom=>axiom.replace(/<([^>]+)>/g,(_,iri)=>{
+            const iriLabel=selectEng(annos[iri]?.labels)??iri;
+            return `<a href="${iri}" target="_blank">${iriLabel}</a>`;
+          }));
+          causeDiv.selectAll("div.axiom").data(processed).enter().append("div").attr("class","axiom").html(a=>a);
+        });
+
+        depRows.exit().remove();
+      });
+  }
+
+  render();
+}
+
+// Initialize with OEO + Empty as default
+ontologySelect.node().value = "OEO";
+updateVersionDropdown();
+versionSelect.node().value = "2.9.0";
+typeSelect.node().value = "Empty";
+loadSelectedFile();
+
+</script>
+</body>
+</html>
