@@ -1,0 +1,301 @@
+{
+  "minus": {
+    "`Hochdurchsatzsimulation`(https://w3id.org/pmd/co/PMD_0000783)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`person`(https://w3id.org/pmd/co/PMD_0000881)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`specifically depended on by`(http://purl.obolibrary.org/obo/BFO_0000194)": [
+      "`specifically dependent continuant`(http://purl.obolibrary.org/obo/BFO_0000020)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`Deep Learning`(https://w3id.org/pmd/co/PMD_0000594)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`machine learning`(https://w3id.org/pmd/co/PMD_0000821)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`change of phase`(https://w3id.org/pmd/co/PMD_0000548)": [
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)",
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)"
+    ],
+    "`is duration of`(http://purl.obolibrary.org/obo/IAO_0000413)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)",
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)",
+      "`time measurement datum`(http://purl.obolibrary.org/obo/IAO_0000416)",
+      "`has measurement unit label`(http://purl.obolibrary.org/obo/IAO_0000039)",
+      "`measurement unit label`(http://purl.obolibrary.org/obo/IAO_0000003)"
+    ],
+    "`structural optimization simulation`(https://w3id.org/pmd/co/PMD_0000956)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`is quality measurement of`(http://purl.obolibrary.org/obo/IAO_0000221)": [
+      "`quality`(http://purl.obolibrary.org/obo/BFO_0000019)"
+    ],
+    "`categorical measurement datum`(https://w3id.org/pmd/co/PMD_0060005)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`reinforcement learning`(https://w3id.org/pmd/co/PMD_0000913)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`specimen role`(http://purl.obolibrary.org/obo/OBI_0000112)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`bearer of`(http://purl.obolibrary.org/obo/BFO_0000196)": [
+      "`independent continuant`(http://purl.obolibrary.org/obo/BFO_0000004)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`specifically dependent continuant`(http://purl.obolibrary.org/obo/BFO_0000020)"
+    ],
+    "`Multimodales Deep Learning`(https://w3id.org/pmd/co/PMD_0000865)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`alteration of quality`(https://w3id.org/pmd/co/PMD_0020210)": [
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)",
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)"
+    ],
+    "`laboratory role`(https://w3id.org/pmd/co/PMD_0000815)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`age`(https://w3id.org/pmd/co/PMD_0000511)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`simulation process`(https://w3id.org/pmd/co/PMD_0000933)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`inheres in`(http://purl.obolibrary.org/obo/BFO_0000197)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`specifically dependent continuant`(http://purl.obolibrary.org/obo/BFO_0000020)",
+      "`independent continuant`(http://purl.obolibrary.org/obo/BFO_0000004)"
+    ],
+    "`laboratory`(https://w3id.org/pmd/co/PMD_0000814)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`initiator role`(https://w3id.org/pmd/co/PMD_0000793)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`supervised learning`(https://w3id.org/pmd/co/PMD_0000964)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`specifically depends on`(http://purl.obolibrary.org/obo/BFO_0000195)": [
+      "`specifically dependent continuant`(http://purl.obolibrary.org/obo/BFO_0000020)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`obsolescence reason specification`(http://purl.obolibrary.org/obo/IAO_0000225)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`specimen`(http://purl.obolibrary.org/obo/OBI_0100051)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`department role`(https://w3id.org/pmd/co/PMD_0000599)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`Multiskalensimulation`(https://w3id.org/pmd/co/PMD_0000866)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`integral bearer of`(https://w3id.org/pmd/co/PMD_0020141)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`independent continuant`(http://purl.obolibrary.org/obo/BFO_0000004)",
+      "`specifically dependent continuant`(http://purl.obolibrary.org/obo/BFO_0000020)"
+    ],
+    "`Projekt`(https://w3id.org/pmd/co/PMD_0000909)": [
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)"
+    ],
+    "`area`(https://w3id.org/pmd/co/PMD_0020199)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`monte carlo simulation`(https://w3id.org/pmd/co/PMD_0000862)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`operation`(https://w3id.org/pmd/co/PMD_0020209)": [
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)",
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)"
+    ],
+    "`Empirische Potential MD Simulation`(https://w3id.org/pmd/co/PMD_0000631)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`generative deep learning`(https://w3id.org/pmd/co/PMD_0000660)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`coarse grained simulation`(https://w3id.org/pmd/co/PMD_0000562)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`atomistic monte carlo simulation`(https://w3id.org/pmd/co/PMD_0000527)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`department`(https://w3id.org/pmd/co/PMD_0000598)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`plan`(https://w3id.org/pmd/co/PMD_0000014)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`operator role`(https://w3id.org/pmd/co/PMD_0000873)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`computing process`(https://w3id.org/pmd/co/PMD_0000583)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`denotator type`(http://purl.obolibrary.org/obo/IAO_0000409)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`ab initio molecular dynamics simulation`(https://w3id.org/pmd/co/PMD_0000504)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`Unsupervised Learning`(https://w3id.org/pmd/co/PMD_0001003)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`time measurement datum`(http://purl.obolibrary.org/obo/IAO_0000416)": [
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)",
+      "`has measurement unit label`(http://purl.obolibrary.org/obo/IAO_0000039)",
+      "`measurement unit label`(http://purl.obolibrary.org/obo/IAO_0000003)",
+      "`is duration of`(http://purl.obolibrary.org/obo/IAO_0000413)",
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ]
+  },
+  "plus": {
+    "http://purl.obolibrary.org/obo/CHEBI_60003": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025998": [
+      "`relational quality`(http://purl.obolibrary.org/obo/BFO_0000145)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020137": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020165": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_1000164": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020140": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025002": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020161": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0050153": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020157": [
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)",
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0050051": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "http://purl.obolibrary.org/obo/OBI_0000260": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`quality of`(http://purl.obolibrary.org/obo/RO_0000080)": [
+      "`quality`(http://purl.obolibrary.org/obo/BFO_0000019)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_0000164": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0050154": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0050155": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0050156": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`functional material`(https://w3id.org/pmd/co/PMD_0000654)": [
+      "`engineered material`(https://w3id.org/pmd/co/PMD_0000002)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020149": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020156": [
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)",
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0000075": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_1000076": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020147": [
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)",
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_1000163": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025003": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020154": [
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)",
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025001": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "`structural material`(https://w3id.org/pmd/co/PMD_0000955)": [
+      "`functional material`(https://w3id.org/pmd/co/PMD_0000654)",
+      "`engineered material`(https://w3id.org/pmd/co/PMD_0000002)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020159": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_0000163": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020130": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020160": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025004": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`engineered material`(https://w3id.org/pmd/co/PMD_0000002)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0050157": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025997": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020158": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_0000076": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020136": [
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)",
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)"
+    ],
+    "http://purl.obolibrary.org/obo/CHEBI_59999": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020163": [
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)",
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_0000000": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0000778": [
+      "`has occurrent part`(http://purl.obolibrary.org/obo/BFO_0000117)",
+      "`temporal part of`(http://purl.obolibrary.org/obo/BFO_0000139)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0020162": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)"
+    ]
+  }
+}

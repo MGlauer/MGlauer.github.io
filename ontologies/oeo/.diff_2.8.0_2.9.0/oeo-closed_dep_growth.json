@@ -1,0 +1,1718 @@
+{
+  "minus": {
+    "`reservoir`(https://openenergyplatform.org/ontology/oeo/OEO_00010084)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`nuclear fission`(https://openenergyplatform.org/ontology/oeo/OEO_00020053)": [
+      "`unit`(http://purl.obolibrary.org/obo/UO_0000000)",
+      "`has participant`(http://purl.obolibrary.org/obo/RO_0000057)"
+    ],
+    "`reservoir hydro storage power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010433)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`natural hydro energy`(https://openenergyplatform.org/ontology/oeo/OEO_00020087)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`liquid air production`(https://openenergyplatform.org/ontology/oeo/OEO_00240015)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine wave energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010102)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`water`(https://openenergyplatform.org/ontology/oeo/OEO_00000441)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`sirup`(https://openenergyplatform.org/ontology/oeo/OEO_00020210)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`water flow`(https://openenergyplatform.org/ontology/oeo/OEO_00110002)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`wind energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020043)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`hydro energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000218)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`wind farm`(https://openenergyplatform.org/ontology/oeo/OEO_00000447)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`onshore wind power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010425)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine tidal energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00010099)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`wave`(https://openenergyplatform.org/ontology/oeo/OEO_00010106)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`tidal flow`(https://openenergyplatform.org/ontology/oeo/OEO_00010101)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine current energy technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010435)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine tidal energy technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010436)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`offshore wind farm`(https://openenergyplatform.org/ontology/oeo/OEO_00000308)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`nuclear fuel`(https://openenergyplatform.org/ontology/oeo/OEO_00000302)": [
+      "`unit`(http://purl.obolibrary.org/obo/UO_0000000)"
+    ],
+    "`run of river power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010087)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`hydro energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00110004)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine tidal energy converting unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010109)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine hydro power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010434)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine thermal energy transfer`(https://openenergyplatform.org/ontology/oeo/OEO_00010096)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine wave energy converting unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010110)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`run of river power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010432)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`liquid water`(https://openenergyplatform.org/ontology/oeo/OEO_00110000)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`hydro power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010086)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`wind`(https://openenergyplatform.org/ontology/oeo/OEO_00000043)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine current energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010097)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`hydro storage power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010088)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`hub height`(https://openenergyplatform.org/ontology/oeo/OEO_00140000)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`wind rotor`(https://openenergyplatform.org/ontology/oeo/OEO_00000448)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`air`(https://openenergyplatform.org/ontology/oeo/OEO_00000054)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine tidal energy power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010112)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine wave energy technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010437)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`reservoir hydro storage power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010094)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`onshore wind farm`(https://openenergyplatform.org/ontology/oeo/OEO_00000311)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`wind energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000446)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`wind energy converting unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000044)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine current energy converting unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010108)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`hydro power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010431)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`ocean current`(https://openenergyplatform.org/ontology/oeo/OEO_00010107)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`liquid air`(https://openenergyplatform.org/ontology/oeo/OEO_00000257)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`hydroelectric energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00110005)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`causally related to`(http://purl.obolibrary.org/obo/RO_0002410)": [
+      "`entity`(http://purl.obolibrary.org/obo/BFO_0000001)"
+    ],
+    "`hydro power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010085)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine current energy power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010111)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine current energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00010098)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`direct air capture`(https://openenergyplatform.org/ontology/oeo/OEO_00010139)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`water turbine`(https://openenergyplatform.org/ontology/oeo/OEO_00000442)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine tidal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010100)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`ocean`(https://openenergyplatform.org/ontology/oeo/OEO_00010105)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`river`(https://openenergyplatform.org/ontology/oeo/OEO_00010093)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine wave energy power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010113)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`sewage plant`(https://openenergyplatform.org/ontology/oeo/OEO_00310001)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`offshore wind power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010426)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`water body`(https://openenergyplatform.org/ontology/oeo/OEO_00010104)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`wind power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010424)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ],
+    "`marine wave energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00010103)": [
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)"
+    ]
+  },
+  "plus": {
+    "`unplanned availability`(https://openenergyplatform.org/ontology/oeo/OEO_00140129)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`lignite power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000024)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`hard coal power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010442)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`biogenic waste fuel`(https://openenergyplatform.org/ontology/oeo/OEO_00010223)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`solar power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000386)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`water electrolysis process`(https://openenergyplatform.org/ontology/oeo/OEO_00010219)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`reservoir`(https://openenergyplatform.org/ontology/oeo/OEO_00010084)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`steam power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00310028)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`biogasoline`(https://openenergyplatform.org/ontology/oeo/OEO_00000075)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`gas power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000184)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`nuclear fission`(https://openenergyplatform.org/ontology/oeo/OEO_00020053)": [
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`energy transformation unit`(https://openenergyplatform.org/ontology/oeo/OEO_00020102)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020003)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "`energy converting component`(https://openenergyplatform.org/ontology/oeo/OEO_00000011)",
+      "`has disposition`(http://purl.obolibrary.org/obo/RO_0000091)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)"
+    ],
+    "`lignite power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010443)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`reservoir hydro storage power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010433)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`hydrogen power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000221)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`natural hydro energy`(https://openenergyplatform.org/ontology/oeo/OEO_00020087)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`fuel power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010440)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`vehicle charging station`(https://openenergyplatform.org/ontology/oeo/OEO_00320040)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`electricity conduction`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01041)": [
+      "`energy decrease`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01013)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`energy increase`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01014)"
+    ],
+    "`pumped water`(https://openenergyplatform.org/ontology/oeo/OEO_00000345)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`power-to-methane technology`(https://openenergyplatform.org/ontology/oeo/OEO_00020350)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`liquid air production`(https://openenergyplatform.org/ontology/oeo/OEO_00240015)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`solid biofuel`(https://openenergyplatform.org/ontology/oeo/OEO_00000332)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine wave energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010102)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280008": [
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`rotational energy`(https://openenergyplatform.org/ontology/oeo/OEO_00240000)",
+      "`electro motive generator`(https://openenergyplatform.org/ontology/oeo/OEO_00000010)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`length unit`(http://purl.obolibrary.org/obo/UO_0000001)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`is energy input to`(https://openenergyplatform.org/ontology/oeo/OEO_00020183)",
+      "`gross electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240012)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`hub height`(https://openenergyplatform.org/ontology/oeo/OEO_00140000)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`air`(https://openenergyplatform.org/ontology/oeo/OEO_00000054)",
+      "`wind energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000446)",
+      "`has function`(http://purl.obolibrary.org/obo/RO_0000085)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`renewable`(https://openenergyplatform.org/ontology/oeo/OEO_00030004)",
+      "`net electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240013)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`wind`(https://openenergyplatform.org/ontology/oeo/OEO_00000043)",
+      "`wind rotor`(https://openenergyplatform.org/ontology/oeo/OEO_00000448)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`uses`(https://openenergyplatform.org/ontology/oeo/OEO_00000503)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`length value`(https://openenergyplatform.org/ontology/oeo/OEO_00140001)",
+      "`rotor diameter`(https://openenergyplatform.org/ontology/oeo/OEO_00020144)",
+      "`wind energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020043)",
+      "`curtailment`(https://openenergyplatform.org/ontology/oeo/OEO_00020107)",
+      "`renewable energy transformation function`(https://openenergyplatform.org/ontology/oeo/OEO_00010388)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`has disposition`(http://purl.obolibrary.org/obo/RO_0000091)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280017": [
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`air`(https://openenergyplatform.org/ontology/oeo/OEO_00000054)",
+      "`rotor diameter`(https://openenergyplatform.org/ontology/oeo/OEO_00020144)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`electro motive generator`(https://openenergyplatform.org/ontology/oeo/OEO_00000010)",
+      "`rotational energy`(https://openenergyplatform.org/ontology/oeo/OEO_00240000)",
+      "`has disposition`(http://purl.obolibrary.org/obo/RO_0000091)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`renewable energy transformation function`(https://openenergyplatform.org/ontology/oeo/OEO_00010388)",
+      "`is energy input to`(https://openenergyplatform.org/ontology/oeo/OEO_00020183)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`wind rotor`(https://openenergyplatform.org/ontology/oeo/OEO_00000448)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`net electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240013)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`renewable`(https://openenergyplatform.org/ontology/oeo/OEO_00030004)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`length unit`(http://purl.obolibrary.org/obo/UO_0000001)",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`has function`(http://purl.obolibrary.org/obo/RO_0000085)",
+      "`uses`(https://openenergyplatform.org/ontology/oeo/OEO_00000503)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`curtailment`(https://openenergyplatform.org/ontology/oeo/OEO_00020107)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`wind energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020043)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`length value`(https://openenergyplatform.org/ontology/oeo/OEO_00140001)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`wind energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000446)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`hub height`(https://openenergyplatform.org/ontology/oeo/OEO_00140000)",
+      "`gross electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240012)",
+      "`wind`(https://openenergyplatform.org/ontology/oeo/OEO_00000043)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)"
+    ],
+    "`water`(https://openenergyplatform.org/ontology/oeo/OEO_00000441)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`power-to-methane system`(https://openenergyplatform.org/ontology/oeo/OEO_00000269)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`sirup`(https://openenergyplatform.org/ontology/oeo/OEO_00020210)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`hydrogen power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000022)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280010": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`has disposition`(http://purl.obolibrary.org/obo/RO_0000091)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`power generating unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000334)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`curtailment`(https://openenergyplatform.org/ontology/oeo/OEO_00020107)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`solar energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000384)",
+      "`photon`(https://openenergyplatform.org/ontology/oeo/OEO_00230021)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`is energy participant of`(https://openenergyplatform.org/ontology/oeo/OEO_00020182)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`solar radiation receiving surface`(https://openenergyplatform.org/ontology/oeo/OEO_00020199)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`photovoltaic energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020048)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`renewable`(https://openenergyplatform.org/ontology/oeo/OEO_00030004)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`gross electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240012)",
+      "`net electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240013)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)"
+    ],
+    "`water flow`(https://openenergyplatform.org/ontology/oeo/OEO_00110002)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`wind energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020043)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`hydro energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000218)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`geothermal power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000019)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`wind farm`(https://openenergyplatform.org/ontology/oeo/OEO_00000447)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`field photovoltaic power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000165)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`onshore wind power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010425)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`energy transformation`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01003)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`energy decrease`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01013)",
+      "`energy increase`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01014)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00390106": [
+      "`time span`(https://openenergyplatform.org/ontology/oeo/OEO_00030035)",
+      "`endogenous data`(https://openenergyplatform.org/ontology/oeo/OEO_00030030)",
+      "`study region`(https://openenergyplatform.org/ontology/oeo/OEO_00020032)",
+      "`numerical computer model`(https://openenergyplatform.org/ontology/oeo/OEO_00000274)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`exogenous data`(https://openenergyplatform.org/ontology/oeo/OEO_00030029)",
+      "`scenario horizon`(https://openenergyplatform.org/ontology/oeo/OEO_00020098)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`location of model uncertainty role`(https://openenergyplatform.org/ontology/oeo/OEO_00400022)",
+      "`has information input`(https://openenergyplatform.org/ontology/oeo/OEO_00140093)",
+      "`considered region`(https://openenergyplatform.org/ontology/oeo/OEO_00020035)",
+      "`role of`(http://purl.obolibrary.org/obo/RO_0000081)",
+      "`model calculation`(https://openenergyplatform.org/ontology/oeo/OEO_00000275)",
+      "`sector`(https://openenergyplatform.org/ontology/oeo/OEO_00000367)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`models`(https://openenergyplatform.org/ontology/oeo/OEO_00140164)",
+      "`has information output`(https://openenergyplatform.org/ontology/oeo/OEO_00140094)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`system`(http://purl.obolibrary.org/obo/RO_0002577)",
+      "`quantity value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020056)",
+      "`year`(http://purl.obolibrary.org/obo/UO_0000036)",
+      "`scenario year`(https://openenergyplatform.org/ontology/oeo/OEO_00020097)",
+      "`analysis scope`(https://openenergyplatform.org/ontology/oeo/OEO_00020072)",
+      "`methodical focus`(https://openenergyplatform.org/ontology/oeo/OEO_00020018)",
+      "`model role`(https://openenergyplatform.org/ontology/oeo/OEO_00020353)"
+    ],
+    "`transformer`(https://openenergyplatform.org/ontology/oeo/OEO_00000420)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`power system`(https://openenergyplatform.org/ontology/oeo/OEO_00360017)"
+    ],
+    "`biodiesel`(https://openenergyplatform.org/ontology/oeo/OEO_00000071)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`charcoal`(https://openenergyplatform.org/ontology/oeo/OEO_00000084)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine tidal energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00010099)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`pumped hydro energy`(https://openenergyplatform.org/ontology/oeo/OEO_00020088)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`wave`(https://openenergyplatform.org/ontology/oeo/OEO_00010106)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`tidal flow`(https://openenergyplatform.org/ontology/oeo/OEO_00010101)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine current energy technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010435)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "http://purl.obolibrary.org/obo/RO_0019001": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280011": [
+      "`renewable energy transformation function`(https://openenergyplatform.org/ontology/oeo/OEO_00010388)",
+      "`photovoltaic energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020048)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`is energy participant of`(https://openenergyplatform.org/ontology/oeo/OEO_00020182)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`photon`(https://openenergyplatform.org/ontology/oeo/OEO_00230021)",
+      "`solar radiation receiving surface`(https://openenergyplatform.org/ontology/oeo/OEO_00020199)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00000151)",
+      "`photovoltaic cell`(https://openenergyplatform.org/ontology/oeo/OEO_00000032)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`has disposition`(http://purl.obolibrary.org/obo/RO_0000091)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`solar energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000384)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`has function`(http://purl.obolibrary.org/obo/RO_0000085)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`net electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240013)",
+      "`gross electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240012)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`renewable`(https://openenergyplatform.org/ontology/oeo/OEO_00030004)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`curtailment`(https://openenergyplatform.org/ontology/oeo/OEO_00020107)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)"
+    ],
+    "`marine tidal energy technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010436)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`bioethanol`(https://openenergyplatform.org/ontology/oeo/OEO_00010446)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`coal power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010441)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00390105": [
+      "`has information output`(https://openenergyplatform.org/ontology/oeo/OEO_00140094)",
+      "`exogenous data`(https://openenergyplatform.org/ontology/oeo/OEO_00030029)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`models`(https://openenergyplatform.org/ontology/oeo/OEO_00140164)",
+      "`system`(http://purl.obolibrary.org/obo/RO_0002577)",
+      "`sector`(https://openenergyplatform.org/ontology/oeo/OEO_00000367)",
+      "`has information input`(https://openenergyplatform.org/ontology/oeo/OEO_00140093)",
+      "`scenario horizon`(https://openenergyplatform.org/ontology/oeo/OEO_00020098)",
+      "`model calculation`(https://openenergyplatform.org/ontology/oeo/OEO_00000275)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`model role`(https://openenergyplatform.org/ontology/oeo/OEO_00020353)",
+      "`year`(http://purl.obolibrary.org/obo/UO_0000036)",
+      "`numerical computer model`(https://openenergyplatform.org/ontology/oeo/OEO_00000274)",
+      "`methodical focus`(https://openenergyplatform.org/ontology/oeo/OEO_00020018)",
+      "`time span`(https://openenergyplatform.org/ontology/oeo/OEO_00030035)",
+      "`considered region`(https://openenergyplatform.org/ontology/oeo/OEO_00020035)",
+      "`analysis scope`(https://openenergyplatform.org/ontology/oeo/OEO_00020072)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`role of`(http://purl.obolibrary.org/obo/RO_0000081)",
+      "`scenario year`(https://openenergyplatform.org/ontology/oeo/OEO_00020097)",
+      "`endogenous data`(https://openenergyplatform.org/ontology/oeo/OEO_00030030)",
+      "`quantity value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020056)",
+      "`study region`(https://openenergyplatform.org/ontology/oeo/OEO_00020032)",
+      "`location of model uncertainty role`(https://openenergyplatform.org/ontology/oeo/OEO_00400022)"
+    ],
+    "`offshore wind farm`(https://openenergyplatform.org/ontology/oeo/OEO_00000308)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`nuclear fuel`(https://openenergyplatform.org/ontology/oeo/OEO_00000302)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`energy transformation unit`(https://openenergyplatform.org/ontology/oeo/OEO_00020102)",
+      "`energy converting component`(https://openenergyplatform.org/ontology/oeo/OEO_00000011)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`has disposition`(http://purl.obolibrary.org/obo/RO_0000091)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020003)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)"
+    ],
+    "`power-to-gas system`(https://openenergyplatform.org/ontology/oeo/OEO_00000335)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`biogas`(https://openenergyplatform.org/ontology/oeo/OEO_00000074)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`run of river power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010087)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`ethanol`(https://openenergyplatform.org/ontology/oeo/OEO_00020001)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280015": [
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`power generating unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000334)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`curtailment`(https://openenergyplatform.org/ontology/oeo/OEO_00020107)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020003)",
+      "`origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000316)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`is energy participant of`(https://openenergyplatform.org/ontology/oeo/OEO_00020182)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`kinetic energy`(https://openenergyplatform.org/ontology/oeo/OEO_00230020)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`energy carrier`(https://openenergyplatform.org/ontology/oeo/OEO_00020039)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)"
+    ],
+    "`hydro energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00110004)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280012": [
+      "`energy carrier`(https://openenergyplatform.org/ontology/oeo/OEO_00020039)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`has function`(http://purl.obolibrary.org/obo/RO_0000085)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020003)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`electrical energy storage function`(https://openenergyplatform.org/ontology/oeo/OEO_00010322)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`is energy participant of`(https://openenergyplatform.org/ontology/oeo/OEO_00020182)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`energy transformation unit`(https://openenergyplatform.org/ontology/oeo/OEO_00020102)",
+      "`electrochemical reaction`(https://openenergyplatform.org/ontology/oeo/OEO_00140037)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000316)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`energy converting component`(https://openenergyplatform.org/ontology/oeo/OEO_00000011)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)"
+    ],
+    "`biogenic industrial waste fuel`(https://openenergyplatform.org/ontology/oeo/OEO_00010225)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine tidal energy converting unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010109)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine hydro power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010434)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`liquid biofuel`(https://openenergyplatform.org/ontology/oeo/OEO_00000258)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine thermal energy transfer`(https://openenergyplatform.org/ontology/oeo/OEO_00010096)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280019": [
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`wind energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020043)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`length value`(https://openenergyplatform.org/ontology/oeo/OEO_00140001)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`curtailment`(https://openenergyplatform.org/ontology/oeo/OEO_00020107)",
+      "`is energy input to`(https://openenergyplatform.org/ontology/oeo/OEO_00020183)",
+      "`rotational energy`(https://openenergyplatform.org/ontology/oeo/OEO_00240000)",
+      "`length unit`(http://purl.obolibrary.org/obo/UO_0000001)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`wind`(https://openenergyplatform.org/ontology/oeo/OEO_00000043)",
+      "`uses`(https://openenergyplatform.org/ontology/oeo/OEO_00000503)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`net electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240013)",
+      "`wind rotor`(https://openenergyplatform.org/ontology/oeo/OEO_00000448)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`air`(https://openenergyplatform.org/ontology/oeo/OEO_00000054)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`gross electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240012)",
+      "`renewable`(https://openenergyplatform.org/ontology/oeo/OEO_00030004)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`wind energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000446)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`hub height`(https://openenergyplatform.org/ontology/oeo/OEO_00140000)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`has function`(http://purl.obolibrary.org/obo/RO_0000085)",
+      "`has disposition`(http://purl.obolibrary.org/obo/RO_0000091)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`renewable energy transformation function`(https://openenergyplatform.org/ontology/oeo/OEO_00010388)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`rotor diameter`(https://openenergyplatform.org/ontology/oeo/OEO_00020144)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`electro motive generator`(https://openenergyplatform.org/ontology/oeo/OEO_00000010)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)"
+    ],
+    "`power-to-liquid process`(https://openenergyplatform.org/ontology/oeo/OEO_00330008)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`methanation`(https://openenergyplatform.org/ontology/oeo/OEO_00010220)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine wave energy converting unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010110)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`coal power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000089)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`PtL fuel`(https://openenergyplatform.org/ontology/oeo/OEO_00010019)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`photovoltaic power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000324)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`compressed biomethane`(https://openenergyplatform.org/ontology/oeo/OEO_00320013)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`combined heat and power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00240011)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`run of river power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010432)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`liquid water`(https://openenergyplatform.org/ontology/oeo/OEO_00110000)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`biogenic municipal waste fuel`(https://openenergyplatform.org/ontology/oeo/OEO_00000356)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`biogas power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000005)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`hydro power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010086)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`fuel-powered electricity generation process`(https://openenergyplatform.org/ontology/oeo/OEO_00050001)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`power line`(https://openenergyplatform.org/ontology/oeo/OEO_00000253)": [
+      "`power system`(https://openenergyplatform.org/ontology/oeo/OEO_00360017)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`non-sustainable biofuel`(https://openenergyplatform.org/ontology/oeo/OEO_00010337)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`biofuel power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000073)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`AC-line`(https://openenergyplatform.org/ontology/oeo/OEO_00000047)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`power system`(https://openenergyplatform.org/ontology/oeo/OEO_00360017)"
+    ],
+    "`solid biomass power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000037)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`wind`(https://openenergyplatform.org/ontology/oeo/OEO_00000043)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280009": [
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`wind energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000446)",
+      "`wind energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020043)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`length value`(https://openenergyplatform.org/ontology/oeo/OEO_00140001)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`gross electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240012)",
+      "`wind rotor`(https://openenergyplatform.org/ontology/oeo/OEO_00000448)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`wind energy converting unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000044)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`net electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240013)",
+      "`renewable energy transformation function`(https://openenergyplatform.org/ontology/oeo/OEO_00010388)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`air`(https://openenergyplatform.org/ontology/oeo/OEO_00000054)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`hub height`(https://openenergyplatform.org/ontology/oeo/OEO_00140000)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`rotational energy`(https://openenergyplatform.org/ontology/oeo/OEO_00240000)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`curtailment`(https://openenergyplatform.org/ontology/oeo/OEO_00020107)",
+      "`is energy input to`(https://openenergyplatform.org/ontology/oeo/OEO_00020183)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`electro motive generator`(https://openenergyplatform.org/ontology/oeo/OEO_00000010)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`wind`(https://openenergyplatform.org/ontology/oeo/OEO_00000043)",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`rotor diameter`(https://openenergyplatform.org/ontology/oeo/OEO_00020144)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`uses`(https://openenergyplatform.org/ontology/oeo/OEO_00000503)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`has function`(http://purl.obolibrary.org/obo/RO_0000085)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`has disposition`(http://purl.obolibrary.org/obo/RO_0000091)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`renewable`(https://openenergyplatform.org/ontology/oeo/OEO_00030004)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`length unit`(http://purl.obolibrary.org/obo/UO_0000001)"
+    ],
+    "`water electrolyser`(https://openenergyplatform.org/ontology/oeo/OEO_00010021)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine current energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010097)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`uranium`(https://openenergyplatform.org/ontology/oeo/OEO_00000040)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`power plant with electro motive generator`(https://openenergyplatform.org/ontology/oeo/OEO_00140162)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`hydro storage power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010088)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`planned availability`(https://openenergyplatform.org/ontology/oeo/OEO_00140126)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`nuclear power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010439)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "http://purl.obolibrary.org/obo/RO_0019002": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`solar-steam-electric process`(https://openenergyplatform.org/ontology/oeo/OEO_00010080)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`energy transfer`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01002)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`energy increase`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01014)",
+      "`energy decrease`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01013)"
+    ],
+    "`hub height`(https://openenergyplatform.org/ontology/oeo/OEO_00140000)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`wind rotor`(https://openenergyplatform.org/ontology/oeo/OEO_00000448)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`biogas power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000004)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`pumped hydro storage power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010089)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "http://purl.obolibrary.org/obo/RO_0019000": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`oil power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000030)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`electricity grid component`(https://openenergyplatform.org/ontology/oeo/OEO_00000144)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`electricity transshipment model`(https://openenergyplatform.org/ontology/oeo/OEO_00000423)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`power system`(https://openenergyplatform.org/ontology/oeo/OEO_00360017)"
+    ],
+    "`heat conduction`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01049)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`energy decrease`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01013)",
+      "`energy increase`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01014)"
+    ],
+    "`coal power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000008)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280016": [
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`energy carrier`(https://openenergyplatform.org/ontology/oeo/OEO_00020039)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`curtailment`(https://openenergyplatform.org/ontology/oeo/OEO_00020107)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020003)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000316)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`power generating unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000334)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`is energy participant of`(https://openenergyplatform.org/ontology/oeo/OEO_00020182)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`kinetic energy`(https://openenergyplatform.org/ontology/oeo/OEO_00230020)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)"
+    ],
+    "`waste power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000041)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`air`(https://openenergyplatform.org/ontology/oeo/OEO_00000054)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000031)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`marine tidal energy power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010112)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine wave energy technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010437)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`reservoir hydro storage power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010094)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`power-to-fuel technology`(https://openenergyplatform.org/ontology/oeo/OEO_00020347)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`onshore wind farm`(https://openenergyplatform.org/ontology/oeo/OEO_00000311)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`fueled power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000175)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`biofuel power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000003)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`nuclear power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000029)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`compressed air`(https://openenergyplatform.org/ontology/oeo/OEO_00000102)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`steam-electric process`(https://openenergyplatform.org/ontology/oeo/OEO_00050020)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`nuclear power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000303)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`heat convection`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01042)": [
+      "`energy increase`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01014)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`energy decrease`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01013)"
+    ],
+    "`renewable power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010362)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`wind energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000446)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`generation time series`(https://openenergyplatform.org/ontology/oeo/OEO_00140138)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`wind energy converting unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000044)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`solar thermal power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000389)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00410060": [
+      "`prescribed by`(https://www.commoncoreontologies.org/ont00001920)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`electric potential difference unit`(http://purl.obolibrary.org/obo/UO_0000217)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)"
+    ],
+    "`power-to-methane process`(https://openenergyplatform.org/ontology/oeo/OEO_00010217)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280018": [
+      "`length value`(https://openenergyplatform.org/ontology/oeo/OEO_00140001)",
+      "`gross electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240012)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`renewable energy transformation function`(https://openenergyplatform.org/ontology/oeo/OEO_00010388)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`has function`(http://purl.obolibrary.org/obo/RO_0000085)",
+      "`curtailment`(https://openenergyplatform.org/ontology/oeo/OEO_00020107)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`wind energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000446)",
+      "`wind`(https://openenergyplatform.org/ontology/oeo/OEO_00000043)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`length unit`(http://purl.obolibrary.org/obo/UO_0000001)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`wind rotor`(https://openenergyplatform.org/ontology/oeo/OEO_00000448)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`rotor diameter`(https://openenergyplatform.org/ontology/oeo/OEO_00020144)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`rotational energy`(https://openenergyplatform.org/ontology/oeo/OEO_00240000)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`wind energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020043)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`hub height`(https://openenergyplatform.org/ontology/oeo/OEO_00140000)",
+      "`renewable`(https://openenergyplatform.org/ontology/oeo/OEO_00030004)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`uses`(https://openenergyplatform.org/ontology/oeo/OEO_00000503)",
+      "`has disposition`(http://purl.obolibrary.org/obo/RO_0000091)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`air`(https://openenergyplatform.org/ontology/oeo/OEO_00000054)",
+      "`is energy input to`(https://openenergyplatform.org/ontology/oeo/OEO_00020183)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`net electricity generation`(https://openenergyplatform.org/ontology/oeo/OEO_00240013)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`electro motive generator`(https://openenergyplatform.org/ontology/oeo/OEO_00000010)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)"
+    ],
+    "`geothermal power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010430)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`biofuel`(https://openenergyplatform.org/ontology/oeo/OEO_00000072)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`biomass`(https://openenergyplatform.org/ontology/oeo/OEO_00010214)": [
+      "`energy transformation unit`(https://openenergyplatform.org/ontology/oeo/OEO_00020102)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020003)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`has disposition`(http://purl.obolibrary.org/obo/RO_0000091)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`quantity value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020056)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`has quantity value`(https://openenergyplatform.org/ontology/oeo/OEO_00140002)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`energy converting component`(https://openenergyplatform.org/ontology/oeo/OEO_00000011)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)"
+    ],
+    "`marine current energy converting unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010108)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`hydro power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010431)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`ocean current`(https://openenergyplatform.org/ontology/oeo/OEO_00010107)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`liquid air`(https://openenergyplatform.org/ontology/oeo/OEO_00000257)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`hydroelectric energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00110005)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`steam`(https://openenergyplatform.org/ontology/oeo/OEO_00110001)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`switchyard`(https://openenergyplatform.org/ontology/oeo/OEO_00020009)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`power system`(https://openenergyplatform.org/ontology/oeo/OEO_00360017)"
+    ],
+    "`power-to-ammonia system`(https://openenergyplatform.org/ontology/oeo/OEO_00330010)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`power-to-liquid system`(https://openenergyplatform.org/ontology/oeo/OEO_00010020)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`power-to-liquid technology`(https://openenergyplatform.org/ontology/oeo/OEO_00020351)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`plutonium`(https://openenergyplatform.org/ontology/oeo/OEO_00140091)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`hard coal power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000205)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`solid biomass power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000036)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00390104": [
+      "`methodical focus`(https://openenergyplatform.org/ontology/oeo/OEO_00020018)",
+      "`has resolution`(https://openenergyplatform.org/ontology/oeo/OEO_00000514)",
+      "`time span`(https://openenergyplatform.org/ontology/oeo/OEO_00030035)",
+      "`year`(http://purl.obolibrary.org/obo/UO_0000036)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`study`(https://openenergyplatform.org/ontology/oeo/OEO_00020011)",
+      "`numerical computer model`(https://openenergyplatform.org/ontology/oeo/OEO_00000274)",
+      "`output of`(http://purl.obolibrary.org/obo/RO_0002353)",
+      "`scenario year`(https://openenergyplatform.org/ontology/oeo/OEO_00020097)",
+      "`data set`(http://purl.obolibrary.org/obo/IAO_0000100)",
+      "`author`(https://openenergyplatform.org/ontology/oeo/OEO_00000064)",
+      "`system`(http://purl.obolibrary.org/obo/RO_0002577)",
+      "`data licence`(https://openenergyplatform.org/ontology/oeo/OEO_00020186)",
+      "`location of model uncertainty role`(https://openenergyplatform.org/ontology/oeo/OEO_00400022)",
+      "`creative work licence`(https://openenergyplatform.org/ontology/oeo/OEO_00010412)",
+      "`sector`(https://openenergyplatform.org/ontology/oeo/OEO_00000367)",
+      "`covers`(https://openenergyplatform.org/ontology/oeo/OEO_00000522)",
+      "`has author`(https://openenergyplatform.org/ontology/oeo/OEO_00000506)",
+      "`resolution`(https://openenergyplatform.org/ontology/oeo/OEO_00020121)",
+      "`has funding source`(https://openenergyplatform.org/ontology/oeo/OEO_00000509)",
+      "`considered region`(https://openenergyplatform.org/ontology/oeo/OEO_00020035)",
+      "`scenario horizon`(https://openenergyplatform.org/ontology/oeo/OEO_00020098)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`quantity value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020056)",
+      "`model role`(https://openenergyplatform.org/ontology/oeo/OEO_00020353)",
+      "`models`(https://openenergyplatform.org/ontology/oeo/OEO_00140164)",
+      "`study region`(https://openenergyplatform.org/ontology/oeo/OEO_00020032)",
+      "`funder`(https://openenergyplatform.org/ontology/oeo/OEO_00090001)",
+      "`analysis scope`(https://openenergyplatform.org/ontology/oeo/OEO_00020072)",
+      "`endogenous data`(https://openenergyplatform.org/ontology/oeo/OEO_00030030)",
+      "`has information output`(https://openenergyplatform.org/ontology/oeo/OEO_00140094)",
+      "`role of`(http://purl.obolibrary.org/obo/RO_0000081)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`model calculation`(https://openenergyplatform.org/ontology/oeo/OEO_00000275)",
+      "`study report`(https://openenergyplatform.org/ontology/oeo/OEO_00020012)",
+      "`has licence`(https://openenergyplatform.org/ontology/oeo/OEO_00020188)",
+      "`has information input`(https://openenergyplatform.org/ontology/oeo/OEO_00140093)",
+      "`exogenous data`(https://openenergyplatform.org/ontology/oeo/OEO_00030029)"
+    ],
+    "`hydro power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010085)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`power-to-fuel system`(https://openenergyplatform.org/ontology/oeo/OEO_00330009)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine current energy power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010111)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine current energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00010098)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`oil power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000310)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`combustion`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01043)": [
+      "`energy increase`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01014)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`energy decrease`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01013)"
+    ],
+    "`geothermal power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000192)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`HVDC-line`(https://openenergyplatform.org/ontology/oeo/OEO_00000126)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`power system`(https://openenergyplatform.org/ontology/oeo/OEO_00360017)"
+    ],
+    "`electricity grid`(https://openenergyplatform.org/ontology/oeo/OEO_00000143)": [
+      "`power system`(https://openenergyplatform.org/ontology/oeo/OEO_00360017)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`direct air capture`(https://openenergyplatform.org/ontology/oeo/OEO_00010139)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`combined cycle electricity generation process`(https://openenergyplatform.org/ontology/oeo/OEO_00310025)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280006": [
+      "`energy carrier`(https://openenergyplatform.org/ontology/oeo/OEO_00020039)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`is energy participant of`(https://openenergyplatform.org/ontology/oeo/OEO_00020182)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`power generating unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000334)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`kinetic energy`(https://openenergyplatform.org/ontology/oeo/OEO_00230020)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`curtailment`(https://openenergyplatform.org/ontology/oeo/OEO_00020107)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020003)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000316)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)"
+    ],
+    "`water turbine`(https://openenergyplatform.org/ontology/oeo/OEO_00000442)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`closed-loop pumped hydro storage power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010092)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`power-to-ammonia technology`(https://openenergyplatform.org/ontology/oeo/OEO_00020349)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`gas fired power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000017)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`marine tidal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010100)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`yield profile`(https://openenergyplatform.org/ontology/oeo/OEO_00140139)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`open-loop pumped hydro storage power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010091)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`ocean`(https://openenergyplatform.org/ontology/oeo/OEO_00010105)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`steam reforming`(https://openenergyplatform.org/ontology/oeo/OEO_00010267)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`thorium`(https://openenergyplatform.org/ontology/oeo/OEO_00140092)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`rooftop photovoltaic power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000361)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`biomethane`(https://openenergyplatform.org/ontology/oeo/OEO_00010215)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`waste power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000440)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068",
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`pumped hydro storage power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010438)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`river`(https://openenergyplatform.org/ontology/oeo/OEO_00010093)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280013": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`energy converting component`(https://openenergyplatform.org/ontology/oeo/OEO_00000011)",
+      "`energy carrier`(https://openenergyplatform.org/ontology/oeo/OEO_00020039)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`electrochemical reaction`(https://openenergyplatform.org/ontology/oeo/OEO_00140037)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`electrical energy storage function`(https://openenergyplatform.org/ontology/oeo/OEO_00010322)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`is energy participant of`(https://openenergyplatform.org/ontology/oeo/OEO_00020182)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`energy transformation unit`(https://openenergyplatform.org/ontology/oeo/OEO_00020102)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020003)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000316)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`has function`(http://purl.obolibrary.org/obo/RO_0000085)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)"
+    ],
+    "`compressed-air energy storage unit`(https://openenergyplatform.org/ontology/oeo/OEO_00020249)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`marine wave energy power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00010113)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`hard coal power unit`(https://openenergyplatform.org/ontology/oeo/OEO_00000021)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`gaseous biofuel`(https://openenergyplatform.org/ontology/oeo/OEO_00010153)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`sustainable biofuel`(https://openenergyplatform.org/ontology/oeo/OEO_00010336)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`sewage plant`(https://openenergyplatform.org/ontology/oeo/OEO_00310001)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`lignite power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000252)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`offshore wind power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010426)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)",
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`bidirectional vehicle charging station`(https://openenergyplatform.org/ontology/oeo/OEO_00320065)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`water body`(https://openenergyplatform.org/ontology/oeo/OEO_00010104)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`power-to-gas technology`(https://openenergyplatform.org/ontology/oeo/OEO_00020348)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`radiation`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01040)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`energy increase`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01014)",
+      "`energy decrease`(https://raw.githubusercontent.com/stap-m/midlevel-energy-ontology/main/ontology/src/midlevel-energy.owl/MENO_01013)"
+    ],
+    "`wind power technology`(https://openenergyplatform.org/ontology/oeo/OEO_00010424)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00280014": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`power`(https://openenergyplatform.org/ontology/oeo/OEO_00000333)",
+      "`realized in`(http://purl.obolibrary.org/obo/BFO_0000054)",
+      "`currency`(https://openenergyplatform.org/ontology/oeo/OEO_00040004)",
+      "`electricity export`(https://openenergyplatform.org/ontology/oeo/OEO_00020208)",
+      "`electrical energy storage function`(https://openenergyplatform.org/ontology/oeo/OEO_00010322)",
+      "`has input`(http://purl.obolibrary.org/obo/RO_0002233)",
+      "`efficiency value`(https://openenergyplatform.org/ontology/oeo/OEO_00140050)",
+      "`monetary value`(https://openenergyplatform.org/ontology/oeo/OEO_00040003)",
+      "`area unit`(http://purl.obolibrary.org/obo/UO_0000047)",
+      "`electricity export value`(https://openenergyplatform.org/ontology/oeo/OEO_00020206)",
+      "`organisation role`(https://openenergyplatform.org/ontology/oeo/OEO_00000315)",
+      "`area value`(https://openenergyplatform.org/ontology/oeo/OEO_00020143)",
+      "`energy carrier`(https://openenergyplatform.org/ontology/oeo/OEO_00020039)",
+      "`trade`(https://openenergyplatform.org/ontology/oeo/OEO_00010082)",
+      "`obsolete has economic value`(https://openenergyplatform.org/ontology/oeo/OEO_00020180)",
+      "`electrical energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000139)",
+      "`functionally related to`(http://purl.obolibrary.org/obo/RO_0002328)",
+      "`electricity import value`(https://openenergyplatform.org/ontology/oeo/OEO_00020205)",
+      "`is energy participant of`(https://openenergyplatform.org/ontology/oeo/OEO_00020182)",
+      "`energy conversion efficiency`(https://openenergyplatform.org/ontology/oeo/OEO_00140049)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`has process attribute`(https://openenergyplatform.org/ontology/oeo/OEO_00000500)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`is traded at`(https://openenergyplatform.org/ontology/oeo/OEO_00020070)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`market participant`(https://openenergyplatform.org/ontology/oeo/OEO_00010083)",
+      "`market exchange`(https://openenergyplatform.org/ontology/oeo/OEO_00020069)",
+      "`obsolete economic value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020179)",
+      "`electrochemical reaction`(https://openenergyplatform.org/ontology/oeo/OEO_00140037)",
+      "`energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00020003)",
+      "`electricity import`(https://openenergyplatform.org/ontology/oeo/OEO_00020207)",
+      "`has origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000530)",
+      "`energy transformation unit`(https://openenergyplatform.org/ontology/oeo/OEO_00020102)",
+      "`has output`(http://purl.obolibrary.org/obo/RO_0002234)",
+      "`has function`(http://purl.obolibrary.org/obo/RO_0000085)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`size`(https://openenergyplatform.org/ontology/oeo/OEO_00340068)",
+      "`energy unit`(http://purl.obolibrary.org/obo/UO_0000111)",
+      "`ratio`(http://purl.obolibrary.org/obo/UO_0010006)",
+      "`outage`(https://openenergyplatform.org/ontology/oeo/OEO_00020104)",
+      "`waste thermal energy`(https://openenergyplatform.org/ontology/oeo/OEO_00010114)",
+      "`origin`(https://openenergyplatform.org/ontology/oeo/OEO_00000316)",
+      "`process attribute of`(https://openenergyplatform.org/ontology/oeo/OEO_00000502)",
+      "`energy converting component`(https://openenergyplatform.org/ontology/oeo/OEO_00000011)",
+      "`space requirement`(https://openenergyplatform.org/ontology/oeo/OEO_00020136)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`commodity role`(https://openenergyplatform.org/ontology/oeo/OEO_00040011)",
+      "`participates in`(http://purl.obolibrary.org/obo/RO_0000056)"
+    ],
+    "https://openenergyplatform.org/ontology/oeo/OEO_00390107": [
+      "`sector`(https://openenergyplatform.org/ontology/oeo/OEO_00000367)",
+      "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)",
+      "`scenario year`(https://openenergyplatform.org/ontology/oeo/OEO_00020097)",
+      "`numerical computer model`(https://openenergyplatform.org/ontology/oeo/OEO_00000274)",
+      "`model role`(https://openenergyplatform.org/ontology/oeo/OEO_00020353)",
+      "`location of model uncertainty role`(https://openenergyplatform.org/ontology/oeo/OEO_00400022)",
+      "`analysis scope`(https://openenergyplatform.org/ontology/oeo/OEO_00020072)",
+      "`methodical focus`(https://openenergyplatform.org/ontology/oeo/OEO_00020018)",
+      "`exogenous data`(https://openenergyplatform.org/ontology/oeo/OEO_00030029)",
+      "`models`(https://openenergyplatform.org/ontology/oeo/OEO_00140164)",
+      "`considered region`(https://openenergyplatform.org/ontology/oeo/OEO_00020035)",
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`model calculation`(https://openenergyplatform.org/ontology/oeo/OEO_00000275)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`system`(http://purl.obolibrary.org/obo/RO_0002577)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`quantity value of`(https://openenergyplatform.org/ontology/oeo/OEO_00020056)",
+      "`has information output`(https://openenergyplatform.org/ontology/oeo/OEO_00140094)",
+      "`endogenous data`(https://openenergyplatform.org/ontology/oeo/OEO_00030030)",
+      "`role of`(http://purl.obolibrary.org/obo/RO_0000081)",
+      "`study region`(https://openenergyplatform.org/ontology/oeo/OEO_00020032)",
+      "`year`(http://purl.obolibrary.org/obo/UO_0000036)",
+      "`scenario horizon`(https://openenergyplatform.org/ontology/oeo/OEO_00020098)",
+      "`has information input`(https://openenergyplatform.org/ontology/oeo/OEO_00140093)",
+      "`time span`(https://openenergyplatform.org/ontology/oeo/OEO_00030035)"
+    ],
+    "`marine wave energy transformation`(https://openenergyplatform.org/ontology/oeo/OEO_00010103)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ],
+    "`fueled power plant`(https://openenergyplatform.org/ontology/oeo/OEO_00000174)": [
+      "https://openenergyplatform.org/ontology/oeo/OEO_00410068"
+    ],
+    "`steam turbine`(https://openenergyplatform.org/ontology/oeo/OEO_00000396)": [
+      "`primary energy carrier disposition`(https://openenergyplatform.org/ontology/oeo/OEO_00140075)"
+    ]
+  }
+}

@@ -1,0 +1,2546 @@
+[
+  [
+    "SubClassOf(`freight train` `train`)",
+    28,
+    0,
+    28
+  ],
+  [
+    "ObjectPropertyDomain(`covers energy carrier` `study`)",
+    39,
+    2,
+    37
+  ],
+  [
+    "SubClassOf(`air` ObjectSomeValuesFrom(`has quality` `wind energy`))",
+    230,
+    30,
+    200
+  ],
+  [
+    "SubClassOf(`tank` `artificial object`)",
+    75,
+    7,
+    68
+  ],
+  [
+    "SubClassOf(`fuel tank` `tank`)",
+    176,
+    8,
+    154
+  ],
+  [
+    "ObjectPropertyDomain(`covers technology (shortcut)` `scenario bundle`)",
+    43,
+    3,
+    40
+  ],
+  [
+    "ObjectPropertyDomain(`covers` `study`)",
+    117,
+    15,
+    102
+  ],
+  [
+    "SubClassOf(`synthetic methane` `methane`)",
+    99,
+    4,
+    85
+  ],
+  [
+    "SubClassOf(`compressed synthetic methane` `synthetic methane`)",
+    47,
+    0,
+    42
+  ],
+  [
+    "SubObjectPropertyOf(`covers technology` `covers`)",
+    39,
+    4,
+    35
+  ],
+  [
+    "SubClassOf(`study report due to legal obligation` `study report`)",
+    39,
+    4,
+    35
+  ],
+  [
+    "SubClassOf(`chemical substance` `manufactured commodity`)",
+    20,
+    1,
+    19
+  ],
+  [
+    "SubClassOf(`coal` `solid fossil fuel`)",
+    12,
+    0,
+    12
+  ],
+  [
+    "ObjectPropertyDomain(`based on sector division` `scenario bundle`)",
+    43,
+    5,
+    38
+  ],
+  [
+    "ObjectPropertyDomain(<https://openenergyplatform.org/ontology/oeo/OEO_00020439> `scenario bundle`)",
+    43,
+    5,
+    38
+  ],
+  [
+    "SubClassOf(`battery electric truck` `battery electric vehicle`)",
+    30,
+    3,
+    27
+  ],
+  [
+    "SubClassOf(`hydroelectric energy transformation` ObjectIntersectionOf(ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy decrease` ObjectSomeValuesFrom(`negatively regulates characteristic` `hydro energy`))) ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy increase` ObjectSomeValuesFrom(`positively regulates characteristic` `electrical energy`)))))",
+    65,
+    10,
+    55
+  ],
+  [
+    "SubClassOf(`steam turbine` ObjectSomeValuesFrom(`participates in` `steam-electric process`))",
+    250,
+    50,
+    198
+  ],
+  [
+    "SubClassOf(`battery electric vehicle` `electric vehicle`)",
+    106,
+    17,
+    87
+  ],
+  [
+    "SubClassOf(`area value` ObjectSomeValuesFrom(`has unit` `area unit`))",
+    561,
+    100,
+    430
+  ],
+  [
+    "SubClassOf(`database` ObjectSomeValuesFrom(`has licence` `data licence`))",
+    122,
+    22,
+    98
+  ],
+  [
+    "SubClassOf(`internal combustion vehicle` `vehicle`)",
+    10,
+    0,
+    10
+  ],
+  [
+    "SubClassOf(`internal combustion vehicle` ObjectSomeValuesFrom(`has part` `fuel tank`))",
+    436,
+    39,
+    333
+  ],
+  [
+    "SubClassOf(`study report` ObjectSomeValuesFrom(`output of` `study`))",
+    108,
+    20,
+    87
+  ],
+  [
+    "SubClassOf(`data set` ObjectSomeValuesFrom(`has licence` `data licence`))",
+    120,
+    22,
+    96
+  ],
+  [
+    "SubClassOf(`steam-electric process` ObjectSomeValuesFrom(`has participant` `electromotive generator`))",
+    324,
+    60,
+    249
+  ],
+  [
+    "SubClassOf(`tank` ObjectSomeValuesFrom(`has quantity value` `volume`))",
+    123,
+    11,
+    98
+  ],
+  [
+    "SubClassOf(`solar heat plant` `heat plant`)",
+    31,
+    0,
+    27
+  ],
+  [
+    "ObjectPropertyDomain(`has study subregion` `scenario`)",
+    26,
+    3,
+    23
+  ],
+  [
+    "SubClassOf(`gas vehicle` `internal combustion vehicle`)",
+    289,
+    31,
+    220
+  ],
+  [
+    "SubClassOf(`fuel cell electric vehicle` ObjectSomeValuesFrom(`has part` `fuel tank`))",
+    553,
+    69,
+    410
+  ],
+  [
+    "SubObjectPropertyOf(`covers sector` `covers`)",
+    39,
+    6,
+    33
+  ],
+  [
+    "SubClassOf(`manufactured commodity` `commodity`)",
+    56,
+    10,
+    46
+  ],
+  [
+    "SubClassOf(`direct equivalent method` `primary energy consumption calculation method`)",
+    43,
+    7,
+    36
+  ],
+  [
+    "SubClassOf(`fuel` ObjectSomeValuesFrom(`has role` `good role`))",
+    348,
+    77,
+    259
+  ],
+  [
+    "SubClassOf(`train` `land vehicle`)",
+    66,
+    13,
+    53
+  ],
+  [
+    "SubClassOf(`fuel tank` ObjectSomeValuesFrom(`has quantity value` `energy storage capacity`))",
+    24,
+    3,
+    21
+  ],
+  [
+    "SubClassOf(`electrical energy` ObjectSomeValuesFrom(`is energy participant of` `electricity import`))",
+    382,
+    59,
+    281
+  ],
+  [
+    "SubClassOf(`methane` `gaseous combustion fuel`)",
+    14,
+    1,
+    13
+  ],
+  [
+    "SubClassOf(`study` ObjectSomeValuesFrom(`has funding source` ObjectSomeValuesFrom(`has role` `funder`)))",
+    76,
+    14,
+    60
+  ],
+  [
+    "SubClassOf(`biogenic waste fuel` `waste fuel`)",
+    74,
+    2,
+    58
+  ],
+  [
+    "SubClassOf(`dam` `artificial object`)",
+    8,
+    0,
+    8
+  ],
+  [
+    "SubClassOf(`volume` ObjectSomeValuesFrom(`has unit` `volume unit`))",
+    27,
+    4,
+    23
+  ],
+  [
+    "SubClassOf(`water electrolyser` ObjectSomeValuesFrom(`has energy input` `electrical energy`))",
+    168,
+    40,
+    125
+  ],
+  [
+    "SubClassOf(`renewable electrical energy` `electrical energy`)",
+    18,
+    0,
+    16
+  ],
+  [
+    "SubClassOf(`solid fossil fuel` `solid combustion fuel`)",
+    18,
+    2,
+    16
+  ],
+  [
+    "SubClassOf(`wind energy` ObjectSomeValuesFrom(`is energy input to` `wind energy transformation`))",
+    285,
+    66,
+    207
+  ],
+  [
+    "SubClassOf(`land vehicle` `vehicle`)",
+    128,
+    32,
+    96
+  ],
+  [
+    "SubClassOf(`commodity` ObjectSomeValuesFrom(`is traded at` `market exchange`))",
+    1280,
+    266,
+    886
+  ],
+  [
+    "SubClassOf(`study report` `report`)",
+    38,
+    6,
+    31
+  ],
+  [
+    "SubClassOf(`compressed-air energy storage unit` ObjectSomeValuesFrom(`uses` `compressed air`))",
+    38,
+    6,
+    31
+  ],
+  [
+    "SubClassOf(`unplanned availability` ObjectSomeValuesFrom(`characteristic of` `power plant`))",
+    53,
+    4,
+    42
+  ],
+  [
+    "ObjectPropertyDomain(`has study region` `scenario`)",
+    26,
+    4,
+    22
+  ],
+  [
+    "SubClassOf(`electrical energy` ObjectSomeValuesFrom(`has role` `commodity role`))",
+    193,
+    31,
+    141
+  ],
+  [
+    "SubClassOf(`compressed gas vehicle` `gas vehicle`)",
+    102,
+    13,
+    77
+  ],
+  [
+    "SubClassOf(`compressed gas car` `car`)",
+    41,
+    3,
+    33
+  ],
+  [
+    "SubClassOf(`diesel car` `car`)",
+    41,
+    3,
+    33
+  ],
+  [
+    "SubClassOf(`electrical energy` `commodity`)",
+    1215,
+    253,
+    834
+  ],
+  [
+    "SubClassOf(`study` ObjectSomeValuesFrom(`has output` `study report`))",
+    180,
+    44,
+    131
+  ],
+  [
+    "SubClassOf(`gaseous combustion fuel` `combustion fuel`)",
+    124,
+    32,
+    92
+  ],
+  [
+    "SubClassOf(`direct solar radiation` `solar radiation`)",
+    37,
+    2,
+    30
+  ],
+  [
+    "SubClassOf(`diesel vehicle` `internal combustion vehicle`)",
+    55,
+    5,
+    43
+  ],
+  [
+    "SubClassOf(`fuel cell electric truck` `fuel cell electric vehicle`)",
+    29,
+    5,
+    24
+  ],
+  [
+    "SubClassOf(`electricity import` ObjectSomeValuesFrom(`has quantity value` `electricity import value`))",
+    197,
+    31,
+    142
+  ],
+  [
+    "SubClassOf(`solar electrical energy` `electrical energy`)",
+    21,
+    1,
+    18
+  ],
+  [
+    "SubClassOf(`waste fuel` ObjectSomeValuesFrom(`has disposition` `combustible energy carrier disposition`))",
+    310,
+    28,
+    219
+  ],
+  [
+    "SubClassOf(`ambient thermal energy transfer` `heat transfer`)",
+    25,
+    4,
+    21
+  ],
+  [
+    "SubClassOf(`fossil waste fuel` `waste fuel`)",
+    102,
+    5,
+    76
+  ],
+  [
+    "SubClassOf(`secondary energy production` ObjectSomeValuesFrom(`has quantity value` `energy value`))",
+    47,
+    10,
+    37
+  ],
+  [
+    "SubClassOf(`combustion fuel` `fuel`)",
+    389,
+    106,
+    271
+  ],
+  [
+    "SubClassOf(`solar heat plant` ObjectSomeValuesFrom(`has part` `solar heat unit`))",
+    12,
+    1,
+    11
+  ],
+  [
+    "SubClassOf(`typical period` ObjectSomeValuesFrom(`uses` `aggregation type`))",
+    7,
+    0,
+    7
+  ],
+  [
+    "SubClassOf(`liquefied petroleum gas car` `car`)",
+    7,
+    0,
+    7
+  ],
+  [
+    "SubClassOf(`wind characteristics determination method` `methodology`)",
+    76,
+    19,
+    57
+  ],
+  [
+    "SubClassOf(`wind` ObjectSomeValuesFrom(`has participant` `air`))",
+    121,
+    18,
+    88
+  ],
+  [
+    "SubClassOf(`volume` `quantity value`)",
+    16,
+    2,
+    14
+  ],
+  [
+    "SubClassOf(`direct air capture` `carbon capture`)",
+    16,
+    2,
+    14
+  ],
+  [
+    "SubClassOf(`bioethanol` `liquid biofuel`)",
+    72,
+    5,
+    54
+  ],
+  [
+    "EquivalentClasses(`manufactured commodity` ObjectIntersectionOf(`portion of matter` ObjectSomeValuesFrom(`has role` `commodity role`) ObjectSomeValuesFrom(`physical output of` `manufacturing process`)))",
+    212,
+    42,
+    149
+  ],
+  [
+    "SubClassOf(`compressed gas truck` `compressed gas vehicle`)",
+    45,
+    5,
+    35
+  ],
+  [
+    "SubClassOf(`truck` ObjectSomeValuesFrom(`participates in` `freight transport`))",
+    31,
+    6,
+    25
+  ],
+  [
+    "SubClassOf(`biogenic industrial waste fuel` `industrial waste fuel`)",
+    38,
+    1,
+    30
+  ],
+  [
+    "SubClassOf(`liquefied natural gas vehicle` `gas vehicle`)",
+    58,
+    7,
+    44
+  ],
+  [
+    "SubClassOf(`compressed biomethane` `biomethane`)",
+    48,
+    5,
+    37
+  ],
+  [
+    "SubClassOf(`gasoline vehicle` `internal combustion vehicle`)",
+    89,
+    12,
+    65
+  ],
+  [
+    "SubClassOf(`parameterisation` ObjectSomeValuesFrom(`has input` `assumption`))",
+    23,
+    4,
+    19
+  ],
+  [
+    "SubClassOf(`biogasoline` ObjectSomeValuesFrom(`has part` `ethanol`))",
+    37,
+    3,
+    29
+  ],
+  [
+    "SubClassOf(`plug-in hybrid electric vehicle` `battery electric vehicle`)",
+    30,
+    6,
+    24
+  ],
+  [
+    "SubClassOf(`market exchange` ObjectSomeValuesFrom(`participates in` ObjectIntersectionOf(`trade` ObjectSomeValuesFrom(`has participant` `market participant`))))",
+    527,
+    132,
+    351
+  ],
+  [
+    "SubClassOf(`hydrocarbon` `combustion fuel`)",
+    11,
+    1,
+    10
+  ],
+  [
+    "SubClassOf(`train station` ObjectSomeValuesFrom(`is used by` `train`))",
+    15,
+    2,
+    13
+  ],
+  [
+    "SubClassOf(`peat` ObjectSomeValuesFrom(`has disposition` `combustible energy carrier disposition`))",
+    36,
+    3,
+    28
+  ],
+  [
+    "SubClassOf(`liquid synthetic fuel` `synthetic fuel`)",
+    36,
+    1,
+    28
+  ],
+  [
+    "SubClassOf(`grid component link` `grid component`)",
+    67,
+    8,
+    49
+  ],
+  [
+    "SubClassOf(`bus` `motorised road vehicle`)",
+    42,
+    0,
+    32
+  ],
+  [
+    "SubClassOf(`liquefied petroleum gas vehicle` `gas vehicle`)",
+    91,
+    14,
+    65
+  ],
+  [
+    "SubClassOf(`current collector` ObjectSomeValuesFrom(`has energy input` `electrical energy`))",
+    462,
+    136,
+    303
+  ],
+  [
+    "SubClassOf(`fossil hydrogen` `hydrogen`)",
+    35,
+    3,
+    27
+  ],
+  [
+    "SubClassOf(`primary energy consumption calculation method` `methodology`)",
+    156,
+    49,
+    107
+  ],
+  [
+    "SubClassOf(`fuel cell electric truck` `truck`)",
+    38,
+    4,
+    29
+  ],
+  [
+    "SubClassOf(`energy transformation unit` `artificial object`)",
+    2992,
+    607,
+    1863
+  ],
+  [
+    "SubClassOf(`hub height` ObjectSomeValuesFrom(`characteristic of` `wind energy converting unit`))",
+    65,
+    10,
+    47
+  ],
+  [
+    "SubClassOf(`direct air capture` ObjectSomeValuesFrom(`has participant` `air`))",
+    56,
+    8,
+    41
+  ],
+  [
+    "SubClassOf(`study report` ObjectSomeValuesFrom(`has author` ObjectSomeValuesFrom(`has role` `author`)))",
+    76,
+    20,
+    54
+  ],
+  [
+    "SubClassOf(`good role` ObjectSomeValuesFrom(`characteristic of` ObjectUnionOf(`independent continuant` `electrical energy`)))",
+    73,
+    21,
+    52
+  ],
+  [
+    "SubClassOf(`synthetic ammonia` `ammonia`)",
+    67,
+    14,
+    48
+  ],
+  [
+    "SubClassOf(`biogenic municipal waste fuel` `biogenic waste fuel`)",
+    37,
+    1,
+    28
+  ],
+  [
+    "SubClassOf(`freight transport` `transport`)",
+    58,
+    12,
+    42
+  ],
+  [
+    "SubClassOf(`volume` ObjectSomeValuesFrom(`quantity value of` `three-dimensional spatial region`))",
+    43,
+    4,
+    32
+  ],
+  [
+    "SubClassOf(`electric vehicle` ObjectSomeValuesFrom(`has energy input` `electrical energy`))",
+    173,
+    57,
+    116
+  ],
+  [
+    "SubClassOf(`air` `gas mixture`)",
+    10,
+    1,
+    9
+  ],
+  [
+    "SubClassOf(`port` ObjectSomeValuesFrom(`is used by` `ship`))",
+    24,
+    5,
+    19
+  ],
+  [
+    "SubClassOf(`B7` ObjectIntersectionOf(ObjectSomeValuesFrom(`has part` `biodiesel`) ObjectSomeValuesFrom(`has part` `gasoline`)))",
+    48,
+    6,
+    35
+  ],
+  [
+    "SubClassOf(`wind characteristics determination process` ObjectSomeValuesFrom(`structured by` `wind characteristics determination method`))",
+    42,
+    11,
+    31
+  ],
+  [
+    "SubClassOf(`optimisation` `model calculation`)",
+    36,
+    5,
+    27
+  ],
+  [
+    "SubClassOf(`municipal waste fuel` `waste fuel`)",
+    39,
+    3,
+    29
+  ],
+  [
+    "SubClassOf(`fossil industrial waste fuel` `fossil waste fuel`)",
+    39,
+    3,
+    29
+  ],
+  [
+    "SubClassOf(`E10` ObjectIntersectionOf(ObjectSomeValuesFrom(`has part` `gasoline`) ObjectSomeValuesFrom(`has part` `bioethanol`)))",
+    93,
+    15,
+    64
+  ],
+  [
+    "SubClassOf(`liquid air` `air`)",
+    128,
+    26,
+    86
+  ],
+  [
+    "SubClassOf(`power generating unit` ObjectSomeValuesFrom(`has energy output` `electrical energy`))",
+    520,
+    86,
+    326
+  ],
+  [
+    "SubClassOf(`fossil combustion fuel` `combustion fuel`)",
+    20,
+    4,
+    16
+  ],
+  [
+    "SubClassOf(`fuel cell electric vehicle` `electric vehicle`)",
+    75,
+    21,
+    52
+  ],
+  [
+    "SubClassOf(`biodiesel` `liquid biofuel`)",
+    41,
+    5,
+    30
+  ],
+  [
+    "SubClassOf(`model intercomparison study` `scenario study`)",
+    41,
+    11,
+    30
+  ],
+  [
+    "ObjectPropertyDomain(`has scenario year` `scenario`)",
+    26,
+    6,
+    20
+  ],
+  [
+    "SubClassOf(`liquid biofuel` `biofuel`)",
+    144,
+    20,
+    95
+  ],
+  [
+    "SubClassOf(`potential energy storage object` `energy storage object`)",
+    13,
+    2,
+    11
+  ],
+  [
+    "SubClassOf(`area value` `quantity value`)",
+    501,
+    162,
+    310
+  ],
+  [
+    "SubClassOf(`charging` ObjectSomeValuesFrom(`has participant` `battery`))",
+    140,
+    48,
+    92
+  ],
+  [
+    "SubClassOf(`market exchange` `organisation`)",
+    408,
+    112,
+    254
+  ],
+  [
+    "SubClassOf(`marine tidal energy transformation` ObjectIntersectionOf(ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy decrease` ObjectSomeValuesFrom(`negatively regulates characteristic` `marine tidal energy`))) ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy increase` ObjectSomeValuesFrom(`positively regulates characteristic` `electrical energy`)))))",
+    366,
+    115,
+    228
+  ],
+  [
+    "SubClassOf(`battery` ObjectSomeValuesFrom(`has energy output` `electrical energy`))",
+    1767,
+    436,
+    1050
+  ],
+  [
+    "SubClassOf(`scenario bundle` ObjectSomeValuesFrom(`is about` `scenario study`))",
+    255,
+    94,
+    161
+  ],
+  [
+    "SubClassOf(`abated steam reforming hydrogen` `hydrogen`)",
+    37,
+    5,
+    27
+  ],
+  [
+    "SubClassOf(`thermal energy` `energy`)",
+    830,
+    282,
+    501
+  ],
+  [
+    "SubClassOf(`energy transfer function` ObjectSomeValuesFrom(`characteristic of` `grid component link`))",
+    34,
+    4,
+    25
+  ],
+  [
+    "SubClassOf(`generator` ObjectSomeValuesFrom(`has energy output` `electrical energy`))",
+    851,
+    229,
+    512
+  ],
+  [
+    "SubClassOf(`road vehicle` `land vehicle`)",
+    48,
+    14,
+    34
+  ],
+  [
+    "SubClassOf(`fueled power unit` `power generating unit`)",
+    432,
+    108,
+    265
+  ],
+  [
+    "SubClassOf(`liquefied petroleum gas car` `liquefied petroleum gas vehicle`)",
+    45,
+    8,
+    32
+  ],
+  [
+    "SubClassOf(`curtailment` ObjectSomeValuesFrom(`has participant` `power generating unit`))",
+    93,
+    17,
+    62
+  ],
+  [
+    "SubClassOf(`artificial object` ObjectSomeValuesFrom(`functionally related to` `space requirement`))",
+    4262,
+    1098,
+    2475
+  ],
+  [
+    "SubClassOf(`freight train station` ObjectSomeValuesFrom(`is used by` `freight train`))",
+    22,
+    5,
+    17
+  ],
+  [
+    "SubClassOf(`non-metallic mineral` `manufactured commodity`)",
+    9,
+    1,
+    8
+  ],
+  [
+    "ObjectPropertyDomain(`applies technology` `artificial object`)",
+    9,
+    1,
+    8
+  ],
+  [
+    "SubClassOf(`space requirement` `two-dimensional spatial region`)",
+    3200,
+    717,
+    1856
+  ],
+  [
+    "SubClassOf(`fossil municipal waste fuel` `fossil waste fuel`)",
+    39,
+    4,
+    28
+  ],
+  [
+    "SubClassOf(`solar energy` ObjectSomeValuesFrom(`characteristic of` `photon`))",
+    173,
+    28,
+    110
+  ],
+  [
+    "SubClassOf(`two-dimensional spatial region` ObjectSomeValuesFrom(`has quantity value` `area value`))",
+    3213,
+    730,
+    1856
+  ],
+  [
+    "ObjectPropertyDomain(`has objective` `optimisation`)",
+    36,
+    8,
+    26
+  ],
+  [
+    "SubClassOf(`electricity export` ObjectSomeValuesFrom(`has quantity value` `electricity export value`))",
+    391,
+    87,
+    238
+  ],
+  [
+    "SubClassOf(`waste thermal energy` `thermal energy`)",
+    746,
+    258,
+    443
+  ],
+  [
+    "SubClassOf(`planned outage` `outage`)",
+    33,
+    4,
+    24
+  ],
+  [
+    "SubClassOf(`bus station` ObjectSomeValuesFrom(`is used by` `bus`))",
+    44,
+    8,
+    31
+  ],
+  [
+    "SubClassOf(`compressed air` `air`)",
+    101,
+    26,
+    66
+  ],
+  [
+    "SubClassOf(`wind energy transformation` ObjectSomeValuesFrom(`has participant` `wind energy converting unit`))",
+    128,
+    46,
+    82
+  ],
+  [
+    "SubClassOf(`Brent crude` `crude oil`)",
+    38,
+    4,
+    27
+  ],
+  [
+    "SubClassOf(`manufactured commodity` `portion of matter`)",
+    12,
+    2,
+    10
+  ],
+  [
+    "SubClassOf(`battery electric truck` `truck`)",
+    24,
+    1,
+    18
+  ],
+  [
+    "SubClassOf(`chemical energy storage function` `energy storage function`)",
+    397,
+    84,
+    238
+  ],
+  [
+    "SubClassOf(`acceptance` ObjectSomeValuesFrom(`characteristic of` ObjectUnionOf(`person` `organisation`)))",
+    64,
+    20,
+    43
+  ],
+  [
+    "SubClassOf(`gaseous biofuel` `gaseous combustion fuel`)",
+    18,
+    4,
+    14
+  ],
+  [
+    "SubClassOf(`fuel transport` `freight transport`)",
+    18,
+    0,
+    14
+  ],
+  [
+    "SubClassOf(`fluid` `portion of matter`)",
+    32,
+    9,
+    23
+  ],
+  [
+    "SubClassOf(`optimisation` ObjectSomeValuesFrom(`has participant` `optimisation model`))",
+    32,
+    9,
+    23
+  ],
+  [
+    "SubClassOf(`power generating unit` ObjectSomeValuesFrom(`has part` `generator`))",
+    897,
+    262,
+    519
+  ],
+  [
+    "SubClassOf(`energy transformation` ObjectSomeValuesFrom(`has participant` `energy converting component`))",
+    4523,
+    1535,
+    2525
+  ],
+  [
+    "SubClassOf(`agent` ObjectSomeValuesFrom(`characteristic of` ObjectUnionOf(`person` `organisation`)))",
+    63,
+    20,
+    42
+  ],
+  [
+    "SubClassOf(`liquid air production` ObjectSomeValuesFrom(`has physical output` `liquid air`))",
+    65,
+    14,
+    43
+  ],
+  [
+    "SubClassOf(`bus` ObjectSomeValuesFrom(`participates in` `passenger transport`))",
+    42,
+    13,
+    29
+  ],
+  [
+    "SubClassOf(`fuel tank` ObjectSomeValuesFrom(`has function` `chemical energy storage function`))",
+    412,
+    100,
+    242
+  ],
+  [
+    "SubClassOf(`optimisation model` `numerical computer model`)",
+    26,
+    1,
+    19
+  ],
+  [
+    "SubClassOf(`model` ObjectSomeValuesFrom(`models` `process`))",
+    116,
+    37,
+    73
+  ],
+  [
+    "SubClassOf(`organisation` ObjectSomeValuesFrom(`has role` `organisation role`))",
+    466,
+    152,
+    272
+  ],
+  [
+    "SubClassOf(`liquid renewable fuel` `renewable fuel`)",
+    34,
+    3,
+    24
+  ],
+  [
+    "SubClassOf(`gaseous renewable fuel` `renewable fuel`)",
+    34,
+    3,
+    24
+  ],
+  [
+    "SubClassOf(`study` ObjectSomeValuesFrom(`has participant` `data set`))",
+    188,
+    69,
+    114
+  ],
+  [
+    "SubClassOf(`biogas power unit` `biofuel power unit`)",
+    49,
+    14,
+    33
+  ],
+  [
+    "SubClassOf(`energy balance calculation method` `methodology`)",
+    76,
+    27,
+    49
+  ],
+  [
+    "SubClassOf(`solid combustion fuel` `combustion fuel`)",
+    28,
+    8,
+    20
+  ],
+  [
+    "SubClassOf(`plug-in hybrid electric vehicle` `vehicle`)",
+    28,
+    6,
+    20
+  ],
+  [
+    "SubClassOf(`solar radiation` `radiation`)",
+    111,
+    27,
+    69
+  ],
+  [
+    "SubClassOf(`plug-in hybrid electric vehicle` ObjectSomeValuesFrom(`uses` `combustion fuel`))",
+    68,
+    24,
+    44
+  ],
+  [
+    "SubClassOf(`efficiency value` ObjectSomeValuesFrom(`has unit` `ratio`))",
+    465,
+    167,
+    266
+  ],
+  [
+    "SubClassOf(`plutonium` ObjectSomeValuesFrom(`has disposition` `nuclear energy carrier disposition`))",
+    33,
+    5,
+    23
+  ],
+  [
+    "SubClassOf(`Western Texas Intermediate` `crude oil`)",
+    38,
+    5,
+    26
+  ],
+  [
+    "SubClassOf(`combustion fuel transport` `fuel transport`)",
+    14,
+    0,
+    11
+  ],
+  [
+    "SubClassOf(`battery electric car` `battery electric vehicle`)",
+    14,
+    3,
+    11
+  ],
+  [
+    "SubClassOf(`bicycle` `road vehicle`)",
+    14,
+    3,
+    11
+  ],
+  [
+    "SubClassOf(`fuel cell` ObjectSomeValuesFrom(`uses` `combustion fuel`))",
+    11,
+    2,
+    9
+  ],
+  [
+    "SubClassOf(`power plant` ObjectSomeValuesFrom(`has part` `power generating unit`))",
+    286,
+    106,
+    166
+  ],
+  [
+    "SubClassOf(`transport` ObjectSomeValuesFrom(`has quantity value` `transport performance value`))",
+    116,
+    37,
+    71
+  ],
+  [
+    "SubClassOf(`oil power unit` ObjectSomeValuesFrom(`has part` `steam turbine`))",
+    109,
+    26,
+    67
+  ],
+  [
+    "SubClassOf(`gasoline car` `gasoline vehicle`)",
+    45,
+    10,
+    30
+  ],
+  [
+    "SubClassOf(`freight port` ObjectSomeValuesFrom(`is used by` `cargo ship`))",
+    22,
+    6,
+    16
+  ],
+  [
+    "SubClassOf(`global warming potential` ObjectSomeValuesFrom(`has unit` `ratio`))",
+    495,
+    185,
+    278
+  ],
+  [
+    "SubClassOf(`energy value` ObjectSomeValuesFrom(`has unit` `energy unit`))",
+    238,
+    78,
+    138
+  ],
+  [
+    "SubClassOf(`block size` ObjectSomeValuesFrom(`quantity value of` `power generating unit`))",
+    49,
+    10,
+    32
+  ],
+  [
+    "SubClassOf(`nameplate capacity` ObjectSomeValuesFrom(`quantity value of` `artificial object`))",
+    51,
+    18,
+    33
+  ],
+  [
+    "SubClassOf(`photon` ObjectSomeValuesFrom(`has disposition` `energy carrier disposition`))",
+    193,
+    47,
+    112
+  ],
+  [
+    "SubClassOf(`renewable fuel` ObjectSomeValuesFrom(`has disposition` `combustible energy carrier disposition`))",
+    142,
+    30,
+    84
+  ],
+  [
+    "SubClassOf(`hydrogen power unit` `fueled power unit`)",
+    24,
+    6,
+    17
+  ],
+  [
+    "SubClassOf(`waste power unit` ObjectSomeValuesFrom(`has part` `steam turbine`))",
+    67,
+    16,
+    42
+  ],
+  [
+    "SubClassOf(`radiation` ObjectSomeValuesFrom(`has participant` `photon`))",
+    16,
+    4,
+    12
+  ],
+  [
+    "SubClassOf(`electric mobility technology` ObjectSomeValuesFrom(`is about` ObjectIntersectionOf(`electric vehicle` ObjectSomeValuesFrom(`participates in` `transport`))))",
+    16,
+    4,
+    12
+  ],
+  [
+    "SubClassOf(`nuclear power unit` ObjectSomeValuesFrom(`has part` `steam turbine`))",
+    771,
+    245,
+    416
+  ],
+  [
+    "SubClassOf(`biofuel` ObjectSomeValuesFrom(`has disposition` `combustible energy carrier disposition`))",
+    474,
+    128,
+    260
+  ],
+  [
+    "SubClassOf(`paper` ObjectSomeValuesFrom(`physical output of` `manufacturing process`))",
+    36,
+    5,
+    24
+  ],
+  [
+    "SubClassOf(`energy converting component` ObjectSomeValuesFrom(`part of` `energy transformation unit`))",
+    5479,
+    1922,
+    2830
+  ],
+  [
+    "SubClassOf(`electrical energy` ObjectSomeValuesFrom(`is energy participant of` `electricity export`))",
+    735,
+    239,
+    396
+  ],
+  [
+    "SubClassOf(`substitution method` `primary energy consumption calculation method`)",
+    43,
+    15,
+    28
+  ],
+  [
+    "SubClassOf(`gas turbine vehicle` ObjectSomeValuesFrom(`has part` `fuel tank`))",
+    84,
+    23,
+    51
+  ],
+  [
+    "SubClassOf(`power-to-fuel system` ObjectSomeValuesFrom(`has part` `water electrolyser`))",
+    197,
+    76,
+    112
+  ],
+  [
+    "SubClassOf(`energy storage content` ObjectSomeValuesFrom(`quantity value of` `energy storage object`))",
+    13,
+    3,
+    10
+  ],
+  [
+    "SubClassOf(`rotational energy` `kinetic energy`)",
+    13,
+    3,
+    10
+  ],
+  [
+    "SubClassOf(`chemical energy storage object` `energy storage object`)",
+    13,
+    3,
+    10
+  ],
+  [
+    "SubClassOf(`hydrogen` `gaseous combustion fuel`)",
+    28,
+    9,
+    19
+  ],
+  [
+    "SubClassOf(`motorised vehicle` `vehicle`)",
+    109,
+    37,
+    64
+  ],
+  [
+    "SubClassOf(`energy` ObjectSomeValuesFrom(`has origin` `origin`))",
+    1148,
+    482,
+    599
+  ],
+  [
+    "SubClassOf(`gross electricity generation` ObjectSomeValuesFrom(`has quantity value` `energy value`))",
+    111,
+    42,
+    65
+  ],
+  [
+    "SubClassOf(`vehicle` ObjectSomeValuesFrom(`has energy output` `waste thermal energy`))",
+    192,
+    84,
+    108
+  ],
+  [
+    "SubClassOf(`passenger transport` `transport`)",
+    42,
+    15,
+    27
+  ],
+  [
+    "SubClassOf(`market participant` `agent`)",
+    35,
+    11,
+    23
+  ],
+  [
+    "ObjectPropertyDomain(`is connected to` `grid node`)",
+    35,
+    7,
+    23
+  ],
+  [
+    "SubClassOf(`thorium` ObjectSomeValuesFrom(`has disposition` `nuclear energy carrier disposition`))",
+    35,
+    7,
+    23
+  ],
+  [
+    "SubObjectPropertyOf(`has objective variable` `has objective`)",
+    18,
+    4,
+    13
+  ],
+  [
+    "ObjectPropertyDomain(`has objective function` `optimisation`)",
+    18,
+    4,
+    13
+  ],
+  [
+    "SubClassOf(`synthetic hydrogen` `gaseous synthetic fuel`)",
+    237,
+    76,
+    131
+  ],
+  [
+    "SubClassOf(`gaseous synthetic fuel` `gaseous combustion fuel`)",
+    30,
+    10,
+    20
+  ],
+  [
+    "SubClassOf(`gasoline car` `car`)",
+    7,
+    1,
+    6
+  ],
+  [
+    "EquivalentClasses(`motorised vehicle` ObjectIntersectionOf(`vehicle` ObjectSomeValuesFrom(`has part` `traction motor`)))",
+    392,
+    117,
+    210
+  ],
+  [
+    "SubClassOf(`motorised road vehicle` ObjectSomeValuesFrom(`has part` `traction motor`))",
+    392,
+    117,
+    210
+  ],
+  [
+    "SubClassOf(`transport performance value` ObjectSomeValuesFrom(`has unit` `transport performance unit`))",
+    46,
+    16,
+    29
+  ],
+  [
+    "SubClassOf(`area value` ObjectSomeValuesFrom(`quantity value of` `size`))",
+    1093,
+    235,
+    563
+  ],
+  [
+    "SubClassOf(`heat plant` `energy transformation unit`)",
+    92,
+    22,
+    54
+  ],
+  [
+    "SubClassOf(`generation time series` ObjectSomeValuesFrom(`is about` ObjectIntersectionOf(`electricity gain process` ObjectSomeValuesFrom(`has participant` `power plant`))))",
+    109,
+    30,
+    63
+  ],
+  [
+    "SubClassOf(`emission rate` ObjectSomeValuesFrom(`process attribute of` `emission`))",
+    25,
+    8,
+    17
+  ],
+  [
+    "SubClassOf(`coal power unit` ObjectSomeValuesFrom(`has part` `steam turbine`))",
+    489,
+    165,
+    258
+  ],
+  [
+    "SubClassOf(`liquid combustion fuel` `combustion fuel`)",
+    32,
+    11,
+    21
+  ],
+  [
+    "SubClassOf(`non-metallic mineral` ObjectSomeValuesFrom(`physical output of` `manufacturing process`))",
+    32,
+    4,
+    21
+  ],
+  [
+    "SubClassOf(`power-to-liquid system` ObjectSomeValuesFrom(`has part` `water electrolyser`))",
+    307,
+    117,
+    165
+  ],
+  [
+    "SubClassOf(`combined heat and power plant` `power plant`)",
+    20,
+    5,
+    14
+  ],
+  [
+    "SubClassOf(`electrical heater` ObjectSomeValuesFrom(`has energy input` `electrical energy`))",
+    15,
+    4,
+    11
+  ],
+  [
+    "SubClassOf(`passenger train station` `train station`)",
+    15,
+    4,
+    11
+  ],
+  [
+    "SubClassOf(`fossil diesel fuel` `gas diesel oil`)",
+    43,
+    9,
+    27
+  ],
+  [
+    "SubClassOf(`marine wave energy transformation` `hydroelectric energy transformation`)",
+    95,
+    30,
+    55
+  ],
+  [
+    "SubClassOf(`heat gain process` `energy transformation`)",
+    246,
+    104,
+    133
+  ],
+  [
+    "EquivalentClasses(`fuel` ObjectIntersectionOf(ObjectSomeValuesFrom(`has role` `fuel role`) ObjectSomeValuesFrom(`has disposition` `energy carrier disposition`)))",
+    226,
+    65,
+    122
+  ],
+  [
+    "SubClassOf(`motor` ObjectSomeValuesFrom(`has energy output` `kinetic energy`))",
+    90,
+    33,
+    52
+  ],
+  [
+    "SubClassOf(`electricity export value` `electrical energy amount value`)",
+    177,
+    59,
+    97
+  ],
+  [
+    "SubClassOf(`nuclear electrical energy` `electrical energy`)",
+    22,
+    5,
+    15
+  ],
+  [
+    "SubClassOf(`traction motor` `motor`)",
+    395,
+    119,
+    206
+  ],
+  [
+    "SubClassOf(`nuclear energy carrier disposition` `energy carrier disposition`)",
+    66,
+    17,
+    39
+  ],
+  [
+    "SubClassOf(`steel` ObjectSomeValuesFrom(`physical output of` `manufacturing process`))",
+    302,
+    80,
+    159
+  ],
+  [
+    "SubClassOf(`scenario study` `study`)",
+    351,
+    168,
+    183
+  ],
+  [
+    "SubClassOf(`electrical energy amount value` `energy value`)",
+    181,
+    62,
+    98
+  ],
+  [
+    "SubClassOf(`gas mixture` `fluid`)",
+    17,
+    5,
+    12
+  ],
+  [
+    "SubClassOf(`Annual Emission Allocation` `emission certificate`)",
+    17,
+    3,
+    12
+  ],
+  [
+    "SubClassOf(`nuclear power unit` `fueled power unit`)",
+    130,
+    41,
+    72
+  ],
+  [
+    "ObjectPropertyDomain(`is applied to object` `technology`)",
+    12,
+    3,
+    9
+  ],
+  [
+    "SubClassOf(`plug-in hybrid electric vehicle` ObjectSomeValuesFrom(`has part` `fuel tank`))",
+    12,
+    3,
+    9
+  ],
+  [
+    "SubClassOf(`biomethane` `gaseous biofuel`)",
+    74,
+    19,
+    43
+  ],
+  [
+    "SubClassOf(`report` ObjectSomeValuesFrom(`has licence` `creative work licence`))",
+    76,
+    31,
+    44
+  ],
+  [
+    "SubClassOf(`internal combustion vehicle` ObjectSomeValuesFrom(`uses` `combustion fuel`))",
+    33,
+    12,
+    21
+  ],
+  [
+    "SubClassOf(`radiation` `energy transfer`)",
+    96,
+    42,
+    54
+  ],
+  [
+    "SubClassOf(`ethanol` ObjectSomeValuesFrom(`has disposition` `combustible energy carrier disposition`))",
+    67,
+    18,
+    39
+  ],
+  [
+    "SubClassOf(`electrical energy storage object` `energy storage object`)",
+    26,
+    7,
+    17
+  ],
+  [
+    "SubClassOf(`wind energy transformation` ObjectIntersectionOf(ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy decrease` ObjectSomeValuesFrom(`negatively regulates characteristic` `wind energy`))) ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy increase` ObjectSomeValuesFrom(`positively regulates characteristic` `electrical energy`)))))",
+    240,
+    64,
+    126
+  ],
+  [
+    "SubClassOf(`kinetic energy` `energy`)",
+    104,
+    22,
+    58
+  ],
+  [
+    "SubClassOf(`planned availability` ObjectSomeValuesFrom(`characteristic of` `power plant`))",
+    108,
+    33,
+    60
+  ],
+  [
+    "SubClassOf(`vehicle` ObjectSomeValuesFrom(`has characteristic` `vehicle operational mode`))",
+    118,
+    53,
+    65
+  ],
+  [
+    "SubClassOf(`rotor diameter` ObjectSomeValuesFrom(`has quantity value` `length value`))",
+    75,
+    16,
+    43
+  ],
+  [
+    "SubClassOf(`traction battery` `battery`)",
+    150,
+    45,
+    81
+  ],
+  [
+    "SubClassOf(`manufacturing process` ObjectIntersectionOf(ObjectSomeValuesFrom(`has part` `energy transformation`) ObjectSomeValuesFrom(`has part` `material transformation`)))",
+    424,
+    113,
+    215
+  ],
+  [
+    "SubClassOf(`energy transformation unit` ObjectSomeValuesFrom(`has part` `energy converting component`))",
+    409,
+    175,
+    207
+  ],
+  [
+    "SubClassOf(`biofuel power unit` `fueled power unit`)",
+    123,
+    45,
+    67
+  ],
+  [
+    "SubClassOf(`time series` `data set`)",
+    43,
+    17,
+    26
+  ],
+  [
+    "SubClassOf(`physical method` `primary energy consumption calculation method`)",
+    43,
+    17,
+    26
+  ],
+  [
+    "SubClassOf(`car` ObjectSomeValuesFrom(`participates in` `passenger transport`))",
+    194,
+    92,
+    102
+  ],
+  [
+    "SubClassOf(`energy balance sector division` ObjectSomeValuesFrom(`is defined by` `energy balance calculation method`))",
+    45,
+    18,
+    27
+  ],
+  [
+    "SubClassOf(`monetary price` ObjectSomeValuesFrom(`quality of` `product`))",
+    21,
+    7,
+    14
+  ],
+  [
+    "SubClassOf(`diesel fuel` `combustion fuel`)",
+    21,
+    7,
+    14
+  ],
+  [
+    "SubClassOf(`electric heat pump` ObjectSomeValuesFrom(`has energy input` `electrical energy`))",
+    21,
+    6,
+    14
+  ],
+  [
+    "SubClassOf(`waterway network` ObjectSomeValuesFrom(`has part` `port`))",
+    9,
+    2,
+    7
+  ],
+  [
+    "SubClassOf(`geogenic` ObjectSomeValuesFrom(`characteristic of` ObjectUnionOf(`energy` `portion of matter`)))",
+    9,
+    2,
+    7
+  ],
+  [
+    "SubClassOf(`motorised road vehicle` `motorised vehicle`)",
+    9,
+    2,
+    7
+  ],
+  [
+    "SubClassOf(`non-ferrous metal` `manufactured commodity`)",
+    9,
+    2,
+    7
+  ],
+  [
+    "SubClassOf(`typical year` `typical period`)",
+    9,
+    2,
+    7
+  ],
+  [
+    "SubClassOf(`gross national electricity consumption value` `energy consumption value`)",
+    9,
+    2,
+    7
+  ],
+  [
+    "SubClassOf(`non-ferrous metal` ObjectSomeValuesFrom(`physical output of` `manufacturing process`))",
+    32,
+    5,
+    20
+  ],
+  [
+    "SubClassOf(`cement` ObjectSomeValuesFrom(`physical output of` `manufacturing process`))",
+    32,
+    5,
+    20
+  ],
+  [
+    "SubClassOf(`battery electric car` `car`)",
+    49,
+    15,
+    29
+  ],
+  [
+    "SubClassOf(`heat transfer` `heat gain process`)",
+    168,
+    80,
+    88
+  ],
+  [
+    "SubClassOf(`fuel-powered electricity generation process` ObjectSomeValuesFrom(`has participant` `fueled power unit`))",
+    99,
+    29,
+    54
+  ],
+  [
+    "SubClassOf(`industrial waste fuel` `waste fuel`)",
+    77,
+    20,
+    43
+  ],
+  [
+    "SubClassOf(`truck` `motorised road vehicle`)",
+    152,
+    47,
+    80
+  ],
+  [
+    "SubClassOf(`liquefied natural gas truck` `truck`)",
+    38,
+    10,
+    23
+  ],
+  [
+    "SubClassOf(`waste fuel` `fuel`)",
+    25,
+    9,
+    16
+  ],
+  [
+    "SubClassOf(`energy storage object` `artificial object`)",
+    122,
+    55,
+    65
+  ],
+  [
+    "SubClassOf(`mineral oil refining process` `secondary energy production`)",
+    48,
+    20,
+    28
+  ],
+  [
+    "SubClassOf(`hard coal power unit` `coal power unit`)",
+    139,
+    49,
+    73
+  ],
+  [
+    "SubClassOf(`life time` ObjectSomeValuesFrom(`quantity value of` `artificial object`))",
+    27,
+    10,
+    17
+  ],
+  [
+    "SubClassOf(`electric vehicle` `motorised vehicle`)",
+    86,
+    31,
+    47
+  ],
+  [
+    "SubClassOf(`pump` `energy converting component`)",
+    58,
+    15,
+    33
+  ],
+  [
+    "SubClassOf(`car` `motorised road vehicle`)",
+    150,
+    52,
+    78
+  ],
+  [
+    "SubClassOf(`railway` ObjectSomeValuesFrom(`is used by` `train`))",
+    31,
+    12,
+    19
+  ],
+  [
+    "SubClassOf(`water body` `liquid water`)",
+    93,
+    30,
+    50
+  ],
+  [
+    "SubClassOf(`filling station` ObjectSomeValuesFrom(`part of` `transport network`))",
+    6,
+    1,
+    5
+  ],
+  [
+    "SubClassOf(`fossil steam reforming hydrogen` `hydrogen`)",
+    6,
+    1,
+    5
+  ],
+  [
+    "SubClassOf(`kinetic energy storage function` `energy storage function`)",
+    35,
+    9,
+    21
+  ],
+  [
+    "SubClassOf(`steam reforming` `secondary energy production`)",
+    35,
+    9,
+    21
+  ],
+  [
+    "SubClassOf(`electricity transshipment model` ObjectSomeValuesFrom(`models` `electricity grid`))",
+    37,
+    8,
+    22
+  ],
+  [
+    "SubClassOf(`waterway network` `transport network`)",
+    11,
+    3,
+    8
+  ],
+  [
+    "SubClassOf(`compressed gas car` `compressed gas vehicle`)",
+    11,
+    3,
+    8
+  ],
+  [
+    "ObjectPropertyDomain(`has uncertainty nature` `uncertainty of a model`)",
+    11,
+    3,
+    8
+  ],
+  [
+    "SubClassOf(`length value` ObjectSomeValuesFrom(`has part` `length unit`))",
+    39,
+    8,
+    23
+  ],
+  [
+    "SubClassOf(`electricity grid` ObjectSomeValuesFrom(`has part` `electricity grid component`))",
+    67,
+    16,
+    37
+  ],
+  [
+    "SubClassOf(`oil power plant` ObjectSomeValuesFrom(`has part` `oil power unit`))",
+    67,
+    21,
+    37
+  ],
+  [
+    "ObjectPropertyDomain(`covers energy carrier (shortcut)` `scenario bundle`)",
+    43,
+    18,
+    25
+  ],
+  [
+    "SubClassOf(`uncertainty of a model` ObjectSomeValuesFrom(`characteristic of` `model`))",
+    20,
+    7,
+    13
+  ],
+  [
+    "SubClassOf(`electrical energy` `energy`)",
+    51,
+    21,
+    29
+  ],
+  [
+    "SubClassOf(`feasible potental determination method` `methodology`)",
+    78,
+    36,
+    42
+  ],
+  [
+    "SubClassOf(`water electrolysis process` ObjectIntersectionOf(ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy decrease` ObjectSomeValuesFrom(`negatively regulates characteristic` `electrical energy`))) ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy increase` ObjectSomeValuesFrom(`positively regulates characteristic` `chemical energy`)))))",
+    26,
+    4,
+    16
+  ],
+  [
+    "SubClassOf(`political assumption` `assumption`)",
+    26,
+    10,
+    16
+  ],
+  [
+    "SubClassOf(`nuclear binding energy` ObjectSomeValuesFrom(`has origin` `conventional`))",
+    13,
+    4,
+    9
+  ],
+  [
+    "SubClassOf(`bicycle` ObjectSomeValuesFrom(`participates in` `passenger transport`))",
+    13,
+    4,
+    9
+  ],
+  [
+    "SubClassOf(`tank ship` ObjectSomeValuesFrom(`has part` `tank`))",
+    13,
+    4,
+    9
+  ],
+  [
+    "SubClassOf(`emission value` ObjectSomeValuesFrom(`quantity value of` `emission rate`))",
+    34,
+    14,
+    20
+  ],
+  [
+    "SubClassOf(`steam reforming hydrogen` `synthetic hydrogen`)",
+    42,
+    13,
+    24
+  ],
+  [
+    "SubClassOf(`hard coal power plant` `coal power plant`)",
+    69,
+    24,
+    37
+  ],
+  [
+    "EquivalentClasses(`conventional energy` ObjectIntersectionOf(`energy` ObjectSomeValuesFrom(`has origin` `conventional`)))",
+    15,
+    5,
+    10
+  ],
+  [
+    "SubClassOf(`fuel cell` `generator`)",
+    80,
+    24,
+    42
+  ],
+  [
+    "SubClassOf(`hydrogen power plant` `power plant`)",
+    49,
+    14,
+    27
+  ],
+  [
+    "SubClassOf(`gas fired power unit` `fueled power unit`)",
+    111,
+    39,
+    56
+  ],
+  [
+    "SubClassOf(`solar-steam-electric process` ObjectSomeValuesFrom(`has participant` `electromotive generator`))",
+    47,
+    14,
+    26
+  ],
+  [
+    "SubClassOf(`solar chemical energy transformation` ObjectIntersectionOf(ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy decrease` ObjectSomeValuesFrom(`negatively regulates characteristic` `solar energy`))) ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy increase` ObjectSomeValuesFrom(`positively regulates characteristic` `chemical energy`)))))",
+    96,
+    21,
+    49
+  ],
+  [
+    "SubClassOf(`liquid fossil fuel` `liquid combustion fuel`)",
+    8,
+    2,
+    6
+  ],
+  [
+    "SubClassOf(`scenario factsheet` `factsheet`)",
+    8,
+    2,
+    6
+  ],
+  [
+    "SubClassOf(`abated steam reforming hydrogen` ObjectSomeValuesFrom(`has characteristic` `conventional energy carrier disposition`))",
+    35,
+    10,
+    20
+  ],
+  [
+    "SubClassOf(`energy conversion efficiency` ObjectSomeValuesFrom(`process attribute of` `energy transformation`))",
+    29,
+    7,
+    17
+  ],
+  [
+    "ObjectPropertyDomain(`has information output (shortcut)` `scenario factsheet`)",
+    29,
+    12,
+    17
+  ],
+  [
+    "SubClassOf(`wind rotor` ObjectSomeValuesFrom(`has quality` `rotor diameter`))",
+    69,
+    18,
+    36
+  ],
+  [
+    "SubClassOf(`nuclear power plant` ObjectSomeValuesFrom(`has part` `nuclear power unit`))",
+    69,
+    24,
+    36
+  ],
+  [
+    "SubClassOf(`methane` `greenhouse gas`)",
+    50,
+    23,
+    27
+  ],
+  [
+    "SubClassOf(`plug-in hybrid electric car` `plug-in hybrid electric vehicle`)",
+    61,
+    24,
+    32
+  ],
+  [
+    "SubClassOf(`solar electrolytic hydrogen` `renewable electrolytic hydrogen`)",
+    42,
+    14,
+    23
+  ],
+  [
+    "SubClassOf(`waste power plant` `fueled power plant`)",
+    55,
+    18,
+    29
+  ],
+  [
+    "SubClassOf(`methane` ObjectSomeValuesFrom(`has disposition` `volatility`))",
+    38,
+    17,
+    21
+  ],
+  [
+    "SubClassOf(`diesel truck` `truck`)",
+    38,
+    12,
+    21
+  ],
+  [
+    "SubClassOf(`scenario projection` ObjectSomeValuesFrom(`has part` `model calculation`))",
+    10,
+    3,
+    7
+  ],
+  [
+    "SubClassOf(`e-bike` ObjectSomeValuesFrom(`has part` `traction battery`))",
+    53,
+    18,
+    28
+  ],
+  [
+    "SubClassOf(`fossil steam reforming hydrogen` ObjectSomeValuesFrom(`has characteristic` `conventional energy carrier disposition`))",
+    34,
+    10,
+    19
+  ],
+  [
+    "SubClassOf(`dam` ObjectSomeValuesFrom(`is used by` `energy storage unit`))",
+    49,
+    10,
+    26
+  ],
+  [
+    "SubClassOf(`greenhouse gas emission value` `emission value`)",
+    30,
+    9,
+    17
+  ],
+  [
+    "SubClassOf(`compressor` `pump`)",
+    30,
+    8,
+    17
+  ],
+  [
+    "SubClassOf(`combined heat and power generation process` ObjectIntersectionOf(ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy decrease` ObjectSomeValuesFrom(`negatively regulates characteristic` `chemical energy`))) ObjectSomeValuesFrom(`has occurrent part` ObjectIntersectionOf(`energy increase` ObjectSomeValuesFrom(`positively regulates characteristic` ObjectIntersectionOf(`electrical energy` `thermal energy`))))))",
+    28,
+    3,
+    16
+  ],
+  [
+    "SubClassOf(`solid biomass power unit` `biofuel power unit`)",
+    28,
+    11,
+    16
+  ],
+  [
+    "SubClassOf(`liquefied natural gas truck` `liquefied natural gas vehicle`)",
+    12,
+    4,
+    8
+  ],
+  [
+    "SubClassOf(`primary energy production` ObjectSomeValuesFrom(`has quantity value` `energy value`))",
+    12,
+    4,
+    8
+  ],
+  [
+    "SubClassOf(`tank ship` `cargo ship`)",
+    12,
+    4,
+    8
+  ],
+  [
+    "SubClassOf(`vehicle charging station` ObjectSomeValuesFrom(`part of` `transport network`))",
+    26,
+    7,
+    15
+  ],
+  [
+    "SubClassOf(`gasoline` ObjectSomeValuesFrom(`physical output of` `mineral oil refining process`))",
+    43,
+    20,
+    23
+  ],
+  [
+    "SubClassOf(`photovoltaic energy transformation` ObjectSomeValuesFrom(`has participant` `photovoltaic cell`))",
+    54,
+    19,
+    28
+  ],
+  [
+    "SubClassOf(`global warming potential` `quantity value`)",
+    24,
+    10,
+    14
+  ],
+  [
+    "SubClassOf(`transport network` ObjectSomeValuesFrom(`has quantity value` `length value`))",
+    24,
+    4,
+    14
+  ],
+  [
+    "SubClassOf(`hydrogen transport` `combustion fuel transport`)",
+    24,
+    8,
+    14
+  ],
+  [
+    "SubClassOf(`marine current energy` ObjectSomeValuesFrom(`is energy input to` `marine current energy transformation`))",
+    24,
+    10,
+    14
+  ],
+  [
+    "SubClassOf(`passenger port` ObjectSomeValuesFrom(`is used by` `passenger ship`))",
+    24,
+    10,
+    14
+  ],
+  [
+    "SubClassOf(`transport performance value` `quantity value`)",
+    14,
+    4,
+    9
+  ],
+  [
+    "SubClassOf(`heater` ObjectSomeValuesFrom(`has energy output` `thermal energy`))",
+    14,
+    5,
+    9
+  ],
+  [
+    "SubClassOf(`operational life time` `life time`)",
+    22,
+    9,
+    13
+  ],
+  [
+    "SubClassOf(`train station` `transport hub`)",
+    16,
+    6,
+    10
+  ],
+  [
+    "SubClassOf(`photovoltaic technology` ObjectIntersectionOf(ObjectSomeValuesFrom(`is about` `PV panel`) ObjectSomeValuesFrom(`participates in` ObjectIntersectionOf(`energy transformation` ObjectSomeValuesFrom(`has energy input` `solar energy`)))))",
+    59,
+    22,
+    30
+  ],
+  [
+    "SubClassOf(`power-to-methane technology` `power-to-gas technology`)",
+    55,
+    20,
+    28
+  ],
+  [
+    "SubClassOf(`thermal energy storage technology` `energy storage technology`)",
+    55,
+    19,
+    28
+  ],
+  [
+    "SubClassOf(`power-to-methane system` `power-to-gas system`)",
+    55,
+    20,
+    28
+  ],
+  [
+    "SubClassOf(`primary control` `frequency control`)",
+    29,
+    11,
+    16
+  ],
+  [
+    "SubClassOf(`fuel market exchange` `energy market exchange`)",
+    27,
+    12,
+    15
+  ],
+  [
+    "SubClassOf(`filling station` ObjectSomeValuesFrom(`participates in` ObjectIntersectionOf(`combustion fuel transport` ObjectSomeValuesFrom(`has participant` ObjectIntersectionOf(`fuel tank` ObjectSomeValuesFrom(`part of` `vehicle`))))))",
+    27,
+    12,
+    15
+  ],
+  [
+    "SubClassOf(`geothermal power technology` `power generation technology`)",
+    47,
+    16,
+    24
+  ],
+  [
+    "SubClassOf(`jet fuel vehicle` `gas turbine vehicle`)",
+    43,
+    16,
+    22
+  ],
+  [
+    "SubClassOf(`energy service demand for passenger-kilometre` ObjectSomeValuesFrom(`realized in` `passenger transport`))",
+    21,
+    9,
+    12
+  ],
+  [
+    "SubClassOf(`heat generating unit` `energy transformation unit`)",
+    32,
+    10,
+    17
+  ],
+  [
+    "SubClassOf(`electric mobility technology` `mobility technology`)",
+    19,
+    6,
+    11
+  ],
+  [
+    "SubClassOf(`life cycle assessment` `methodology`)",
+    39,
+    19,
+    20
+  ],
+  [
+    "SubClassOf(`power-to-methane system` ObjectSomeValuesFrom(`participates in` `power-to-methane process`))",
+    30,
+    14,
+    16
+  ],
+  [
+    "SubClassOf(`plug-in hybrid electric car` `battery electric car`)",
+    7,
+    2,
+    5
+  ],
+  [
+    "SubClassOf(`construction time` ObjectSomeValuesFrom(`quantity value of` `artificial object`))",
+    7,
+    2,
+    5
+  ],
+  [
+    "EquivalentClasses(`compressed gas car` ObjectIntersectionOf(`car` ObjectSomeValuesFrom(`has part` `gas engine`) ObjectSomeValuesFrom(`uses` `compressed gas fuel`) ObjectAllValuesFrom(`has part` ObjectUnionOf(`gas engine` ObjectComplementOf(`motor`)))))",
+    7,
+    2,
+    5
+  ],
+  [
+    "SubClassOf(`compressed gas engine` ObjectSomeValuesFrom(`uses` `compressed gas fuel`))",
+    7,
+    2,
+    5
+  ],
+  [
+    "SubClassOf(`fossil waste fuel` `fossil combustion fuel`)",
+    15,
+    6,
+    9
+  ],
+  [
+    "SubClassOf(`CO2 emission value` `greenhouse gas emission value`)",
+    15,
+    4,
+    9
+  ],
+  [
+    "SubClassOf(`internal combustion engine` ObjectSomeValuesFrom(`uses` `combustion fuel`))",
+    13,
+    5,
+    8
+  ],
+  [
+    "SubClassOf(`biofuel` `combustion fuel`)",
+    26,
+    10,
+    14
+  ],
+  [
+    "SubClassOf(`decommissioning time` ObjectSomeValuesFrom(`quantity value of` `artificial object`))",
+    9,
+    3,
+    6
+  ],
+  [
+    "SubClassOf(`cement` `manufactured commodity`)",
+    9,
+    3,
+    6
+  ],
+  [
+    "SubClassOf(`aviation network` `transport network`)",
+    11,
+    4,
+    7
+  ],
+  [
+    "SubClassOf(`diesel car` `diesel vehicle`)",
+    11,
+    4,
+    7
+  ],
+  [
+    "SubClassOf(`economic life time` `operational life time`)",
+    11,
+    4,
+    7
+  ],
+  [
+    "SubClassOf(`geothermal heat plant` ObjectSomeValuesFrom(`participates in` `geothermal heat transfer`))",
+    33,
+    11,
+    17
+  ],
+  [
+    "SubClassOf(`emission market exchange` ObjectSomeValuesFrom(`trades` `emission certificate`))",
+    24,
+    10,
+    13
+  ],
+  [
+    "SubClassOf(`biofuel power unit` ObjectSomeValuesFrom(`has part` `electromotive generator`))",
+    18,
+    8,
+    10
+  ],
+  [
+    "SubClassOf(`power-to-methane technology` ObjectSomeValuesFrom(`is about` ObjectIntersectionOf(`power-to-methane system` ObjectSomeValuesFrom(`participates in` `power-to-methane process`))))",
+    16,
+    7,
+    9
+  ],
+  [
+    "SubClassOf(`geothermal power technology` ObjectIntersectionOf(ObjectSomeValuesFrom(`is about` `geothermal power unit`) ObjectSomeValuesFrom(`participates in` ObjectIntersectionOf(`electricity gain process` ObjectSomeValuesFrom(`has energy input` `geothermal energy`)))))",
+    16,
+    6,
+    9
+  ],
+  [
+    "SubClassOf(`typical day` `typical period`)",
+    14,
+    6,
+    8
+  ],
+  [
+    "SubClassOf(`diesel vehicle` ObjectSomeValuesFrom(`uses` `diesel fuel`))",
+    14,
+    6,
+    8
+  ],
+  [
+    "SubClassOf(`ammonia` ObjectSomeValuesFrom(`participates in` `air pollution`))",
+    21,
+    10,
+    11
+  ],
+  [
+    "SubClassOf(`chemical substance` ObjectSomeValuesFrom(`has role` `commodity role`))",
+    12,
+    5,
+    7
+  ],
+  [
+    "SubClassOf(`syngas` ObjectSomeValuesFrom(`has part` `carbon monoxide`))",
+    12,
+    5,
+    7
+  ],
+  [
+    "SubClassOf(`EU allowance` `emission certificate`)",
+    17,
+    6,
+    9
+  ],
+  [
+    "SubClassOf(`latent heat storage object` ObjectSomeValuesFrom(`participates in` `phase transition`))",
+    15,
+    7,
+    8
+  ],
+  [
+    "SubClassOf(`diesel engine` ObjectSomeValuesFrom(`uses` `diesel fuel`))",
+    15,
+    7,
+    8
+  ],
+  [
+    "SubClassOf(`waste power plant` ObjectSomeValuesFrom(`has part` `waste power unit`))",
+    15,
+    6,
+    8
+  ],
+  [
+    "SubClassOf(`renewable` `origin`)",
+    6,
+    2,
+    4
+  ],
+  [
+    "SubClassOf(`user` `agent`)",
+    6,
+    2,
+    4
+  ],
+  [
+    "SubClassOf(`surface` ObjectSomeValuesFrom(`part of` `object`))",
+    6,
+    2,
+    4
+  ],
+  [
+    "SubClassOf(`electrical energy transfer` `electricity gain process`)",
+    6,
+    2,
+    4
+  ],
+  [
+    "SubClassOf(`natural gas` ObjectSomeValuesFrom(`has role` `fuel role`))",
+    11,
+    5,
+    6
+  ],
+  [
+    "SubClassOf(`fuel commodity` ObjectSomeValuesFrom(`is traded at` `fuel market exchange`))",
+    11,
+    5,
+    6
+  ],
+  [
+    "SubClassOf(`sector coupling technology` ObjectSomeValuesFrom(`is about` ObjectIntersectionOf(`artificial object` ObjectSomeValuesFrom(`participates in` `sector coupling`))))",
+    11,
+    5,
+    6
+  ],
+  [
+    "SubClassOf(`non-energy use technology` `technology`)",
+    11,
+    5,
+    6
+  ],
+  [
+    "ObjectPropertyDomain(`has uncertainty location` `uncertainty of a model`)",
+    11,
+    5,
+    6
+  ],
+  [
+    "SubClassOf(`commodity role` `good role`)",
+    7,
+    3,
+    4
+  ],
+  [
+    "SubClassOf(`conventional energy` `energy`)",
+    7,
+    3,
+    4
+  ]
+]

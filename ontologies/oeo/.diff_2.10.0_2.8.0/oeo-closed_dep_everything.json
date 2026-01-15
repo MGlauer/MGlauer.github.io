@@ -1,0 +1,89 @@
+{
+  "minus": {
+    "`has prefix`(https://openenergyplatform.org/ontology/oeo/OEO_00020404)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ],
+    "`has unit denominator`(https://openenergyplatform.org/ontology/oeo/OEO_00010476)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ],
+    "`is unit of`(http://purl.obolibrary.org/obo/uo#is_unit_of)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ],
+    "`has linear unit numerator`(https://openenergyplatform.org/ontology/oeo/OEO_00010473)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ],
+    "`has cubed unit numerator`(https://openenergyplatform.org/ontology/oeo/OEO_00010475)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ],
+    "`has squared unit denominator`(https://openenergyplatform.org/ontology/oeo/OEO_00010478)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ],
+    "`has squared unit numerator`(https://openenergyplatform.org/ontology/oeo/OEO_00010474)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ],
+    "`has cubed unit denominator`(https://openenergyplatform.org/ontology/oeo/OEO_00010479)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ],
+    "`has unit numerator`(https://openenergyplatform.org/ontology/oeo/OEO_00010472)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ],
+    "http://purl.obolibrary.org/obo/RO_0019002": [
+      "`quality`(http://purl.obolibrary.org/obo/BFO_0000019)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`has unit`(https://openenergyplatform.org/ontology/oeo/OEO_00040010)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ],
+    "http://purl.obolibrary.org/obo/RO_0019001": [
+      "`quality`(http://purl.obolibrary.org/obo/BFO_0000019)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "http://purl.obolibrary.org/obo/RO_0019000": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`quality`(http://purl.obolibrary.org/obo/BFO_0000019)"
+    ],
+    "`has linear unit denominator`(https://openenergyplatform.org/ontology/oeo/OEO_00010477)": [
+      "`unit`(https://openenergyplatform.org/ontology/oeo/OEO_00010489)"
+    ]
+  },
+  "plus": {
+    "`grid-bound heating`(https://openenergyplatform.org/ontology/oeo/OEO_00020073)": [
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000150)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)"
+    ],
+    "`ambient thermal energy transfer`(https://openenergyplatform.org/ontology/oeo/OEO_00140106)": [
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000150)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)"
+    ],
+    "`industrial grid-bound heating`(https://openenergyplatform.org/ontology/oeo/OEO_00020074)": [
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000150)"
+    ],
+    "`causally related to`(http://purl.obolibrary.org/obo/RO_0002410)": [
+      "`entity`(http://purl.obolibrary.org/obo/BFO_0000001)"
+    ],
+    "`geothermal heat transfer`(https://openenergyplatform.org/ontology/oeo/OEO_00020059)": [
+      "`energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000150)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)"
+    ],
+    "`district heating`(https://openenergyplatform.org/ontology/oeo/OEO_00000132)": [
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)",
+      "`energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000150)"
+    ],
+    "`heat transfer`(https://openenergyplatform.org/ontology/oeo/OEO_00140101)": [
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000150)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)"
+    ],
+    "`marine thermal energy transfer`(https://openenergyplatform.org/ontology/oeo/OEO_00010096)": [
+      "`has energy output`(https://openenergyplatform.org/ontology/oeo/OEO_00010235)",
+      "`energy`(https://openenergyplatform.org/ontology/oeo/OEO_00000150)",
+      "`has energy input`(https://openenergyplatform.org/ontology/oeo/OEO_00010234)"
+    ]
+  }
+}

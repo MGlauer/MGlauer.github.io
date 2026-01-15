@@ -1,0 +1,164 @@
+[
+  [
+    "SubClassOf(`evaluant role` ObjectSomeValuesFrom(`characteristic of` `material entity`))",
+    124,
+    15,
+    109
+  ],
+  [
+    "SubClassOf(`measurement unit label` `datum label`)",
+    10,
+    0,
+    10
+  ],
+  [
+    "SubClassOf(`optical property` ObjectSomeValuesFrom(`stimulated by` `waver irradiation`))",
+    9,
+    0,
+    9
+  ],
+  [
+    "SubClassOf(`unit` `measurement unit label`)",
+    8,
+    0,
+    8
+  ],
+  [
+    "SubClassOf(`datum label` `information content entity`)",
+    11,
+    1,
+    10
+  ],
+  [
+    "SubClassOf(`microscopy process` `Struktur Eigenschaften Analyseverfahren`)",
+    75,
+    27,
+    48
+  ],
+  [
+    "SubClassOf(`categorical value specification` `value specification`)",
+    7,
+    1,
+    6
+  ],
+  [
+    "SubClassOf(`Ionenmikroskopie` `microscopy process`)",
+    15,
+    4,
+    11
+  ],
+  [
+    "SubClassOf(`Dimensions Messprozess` `Struktur Eigenschaften Analyseverfahren`)",
+    15,
+    4,
+    11
+  ],
+  [
+    "SubClassOf(`assay` ObjectSomeValuesFrom(`has specified input` ObjectIntersectionOf(`material entity` ObjectSomeValuesFrom(`has role` `evaluant role`))))",
+    305,
+    147,
+    158
+  ],
+  [
+    "SubClassOf(`Optische Mikroskopie` `microscopy process`)",
+    30,
+    12,
+    18
+  ],
+  [
+    "SubClassOf(`Rheometry` `Rheologische Eigenschaften Analyseverfahren`)",
+    15,
+    5,
+    10
+  ],
+  [
+    "SubClassOf(`R\u00f6ntgen-Computertomographie` `R\u00f6ntgen Analyseverfahren`)",
+    15,
+    5,
+    10
+  ],
+  [
+    "SubClassOf(`fraction value specification` ObjectIntersectionOf(ObjectIntersectionOf(`value specification` ObjectSomeValuesFrom(`specifies value of` `pure substance`) ObjectSomeValuesFrom(`specifies value of` ObjectIntersectionOf(`chemical substance` ObjectSomeValuesFrom(`has part` `pure substance`))) ObjectSomeValuesFrom(ObjectInverseOf(`has member`) `composition specification`)) ObjectIntersectionOf(`value specification` ObjectSomeValuesFrom(`specifies value of` `portion of pure chemical element`) ObjectSomeValuesFrom(`specifies value of` ObjectIntersectionOf(`Material` ObjectSomeValuesFrom(`has part` `portion of pure chemical element`))) ObjectSomeValuesFrom(ObjectInverseOf(`has member`) `composition specification`))))",
+    7,
+    2,
+    5
+  ],
+  [
+    "SubClassOf(`R\u00f6ntgenspektroskopie` `Spektroskopie Verfahren`)",
+    15,
+    6,
+    9
+  ],
+  [
+    "SubClassOf(`supercritical fluid chromatography process` `Chromatographieverfahren`)",
+    15,
+    6,
+    9
+  ],
+  [
+    "SubClassOf(`Hochleistungsfl\u00fcssigkeitschromatographie Verfahren` `Chromatographieverfahren`)",
+    15,
+    6,
+    9
+  ],
+  [
+    "SubClassOf(`Ionenspektroskopie` `Spektroskopie Verfahren`)",
+    15,
+    6,
+    9
+  ],
+  [
+    "SubClassOf(`light microscopy` `Optische Mikroskopie`)",
+    15,
+    6,
+    9
+  ],
+  [
+    "SubClassOf(`x-ray mapping` `R\u00f6ntgen Analyseverfahren`)",
+    15,
+    6,
+    9
+  ],
+  [
+    "SubClassOf(`Elektronenmikroskopie` `microscopy process`)",
+    15,
+    6,
+    9
+  ],
+  [
+    "SubClassOf(`value specification` `information content entity`)",
+    13,
+    5,
+    8
+  ],
+  [
+    "SubClassOf(`laser spectroscopy` `Spektroskopie Verfahren`)",
+    15,
+    7,
+    8
+  ],
+  [
+    "SubClassOf(`ion exchange chromatography process` `Chromatographieverfahren`)",
+    15,
+    7,
+    8
+  ],
+  [
+    "SubClassOf(`scratch testing process` `mechanical property analyzing process`)",
+    15,
+    7,
+    8
+  ],
+  [
+    "SubClassOf(`electron spectroscopy` `Spektroskopie Verfahren`)",
+    15,
+    7,
+    8
+  ],
+  [
+    "SubClassOf(`x-ray microanalysis` `R\u00f6ntgen Analyseverfahren`)",
+    15,
+    7,
+    8
+  ]
+]

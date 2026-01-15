@@ -1,0 +1,21 @@
+{
+  "minus": {
+    "`causally related to`(http://purl.obolibrary.org/obo/RO_0002410)": [
+      "`entity`(http://purl.obolibrary.org/obo/BFO_0000001)"
+    ]
+  },
+  "plus": {
+    "http://purl.obolibrary.org/obo/RO_0019001": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`quality`(http://purl.obolibrary.org/obo/BFO_0000019)"
+    ],
+    "http://purl.obolibrary.org/obo/RO_0019002": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`quality`(http://purl.obolibrary.org/obo/BFO_0000019)"
+    ],
+    "http://purl.obolibrary.org/obo/RO_0019000": [
+      "`quality`(http://purl.obolibrary.org/obo/BFO_0000019)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ]
+  }
+}

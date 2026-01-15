@@ -1,0 +1,1023 @@
+{
+  "minus": {
+    "`Hochdurchsatzsimulation`(https://w3id.org/pmd/co/PMD_0000783)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`speed of sound`(https://w3id.org/pmd/co/PMD_0000947)": [
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)"
+    ],
+    "`Anpressen - Einpressen`(https://w3id.org/pmd/co/PMD_0000895)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Textiles F\u00fcgen`(https://w3id.org/pmd/co/PMD_0000977)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`scratch hardness`(https://w3id.org/pmd/co/PMD_0000924)": [
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)"
+    ],
+    "`electrical property`(https://w3id.org/pmd/co/PMD_0000621)": [
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)"
+    ],
+    "`specifically depended on by`(http://purl.obolibrary.org/obo/BFO_0000194)": [
+      "`specifically dependent continuant`(http://purl.obolibrary.org/obo/BFO_0000020)"
+    ],
+    "`Deep Learning`(https://w3id.org/pmd/co/PMD_0000594)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`machine learning`(https://w3id.org/pmd/co/PMD_0000821)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Brinell 2.5 62.5 ISO 6506`(https://w3id.org/pmd/co/PMD_0000536)": [
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)"
+    ],
+    "`Stoffeigenschaft \u00c4ndern`(https://w3id.org/pmd/co/PMD_0000550)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`dielectric constant`(https://w3id.org/pmd/co/PMD_0000604)": [
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)"
+    ],
+    "`mohs hardness`(https://w3id.org/pmd/co/PMD_0000861)": [
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)"
+    ],
+    "`Urformen Aus Dem Spanf\u00f6rmigen Oder Faserf\u00f6rmigen Zustand`(https://w3id.org/pmd/co/PMD_0000902)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`is duration of`(http://purl.obolibrary.org/obo/IAO_0000413)": [
+      "`value specification`(http://purl.obolibrary.org/obo/OBI_0001933)",
+      "`time measurement datum`(http://purl.obolibrary.org/obo/IAO_0000416)",
+      "`has value specification`(http://purl.obolibrary.org/obo/OBI_0001938)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`structural optimization simulation`(https://w3id.org/pmd/co/PMD_0000956)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`stiffness`(https://w3id.org/pmd/co/PMD_0000949)": [
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`stimulated by`(https://w3id.org/pmd/co/PMD_0001030)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)"
+    ],
+    "`is quality measurement of`(http://purl.obolibrary.org/obo/IAO_0000221)": [
+      "`quality`(http://purl.obolibrary.org/obo/BFO_0000019)"
+    ],
+    "`Verfestigen Durch Umformen`(https://w3id.org/pmd/co/PMD_0000772)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`categorical measurement datum`(https://w3id.org/pmd/co/PMD_0060005)": [
+      "`has value specification`(http://purl.obolibrary.org/obo/OBI_0001938)",
+      "`value specification`(http://purl.obolibrary.org/obo/OBI_0001933)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`heat treatment`(https://w3id.org/pmd/co/PMD_0000779)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Bestrahlen`(https://w3id.org/pmd/co/PMD_0000801)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`conditioning process`(https://w3id.org/pmd/co/PMD_0000584)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`joining`(https://w3id.org/pmd/co/PMD_0000806)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`reinforcement learning`(https://w3id.org/pmd/co/PMD_0000913)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Sintern`(https://w3id.org/pmd/co/PMD_0000934)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`joining by soldering`(https://w3id.org/pmd/co/PMD_0000809)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`coating from the gaseous or vapour state`(https://w3id.org/pmd/co/PMD_0000569)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`specimen role`(http://purl.obolibrary.org/obo/OBI_0000112)": [
+      "`material entity`(http://purl.obolibrary.org/obo/BFO_0000040)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)"
+    ],
+    "`Trennen`(https://w3id.org/pmd/co/PMD_0000927)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Urformen Aus Dem K\u00f6rnerf\u00f6rmigen Oder Pulverf\u00f6rmigen Zustand`(https://w3id.org/pmd/co/PMD_0000904)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`forming`(https://w3id.org/pmd/co/PMD_0000646)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`photochemical process`(https://w3id.org/pmd/co/PMD_0000883)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`bearer of`(http://purl.obolibrary.org/obo/BFO_0000196)": [
+      "`specifically dependent continuant`(http://purl.obolibrary.org/obo/BFO_0000020)",
+      "`independent continuant`(http://purl.obolibrary.org/obo/BFO_0000004)"
+    ],
+    "`magnetizing`(https://w3id.org/pmd/co/PMD_0000826)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`sublimation point`(https://w3id.org/pmd/co/PMD_0000961)": [
+      "`change of phase`(https://w3id.org/pmd/co/PMD_0000548)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)"
+    ],
+    "`temporal property`(https://w3id.org/pmd/co/PMD_0000972)": [
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)"
+    ],
+    "`Multimodales Deep Learning`(https://w3id.org/pmd/co/PMD_0000865)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`simulation entity role`(https://w3id.org/pmd/co/PMD_0000051)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`phase boundary`(https://w3id.org/pmd/co/PMD_0000882)": [
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`change of phase`(https://w3id.org/pmd/co/PMD_0000548)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)"
+    ],
+    "`forming under shearing conditions`(https://w3id.org/pmd/co/PMD_0000651)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`coating by soldering`(https://w3id.org/pmd/co/PMD_0000565)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`ferrous alloy`(https://w3id.org/pmd/co/PMD_0000639)": [
+      "`consists of`(https://w3id.org/pmd/co/PMD_0020005)"
+    ],
+    "`Urformen Durch Additive Fertigung`(https://w3id.org/pmd/co/PMD_0000900)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`F\u00fcgen Durch Umformen`(https://w3id.org/pmd/co/PMD_0000808)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`forming by bending`(https://w3id.org/pmd/co/PMD_0000647)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Urformen Durch Schweissen`(https://w3id.org/pmd/co/PMD_0000901)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`primary shaping`(https://w3id.org/pmd/co/PMD_0000899)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`index of refraction`(https://w3id.org/pmd/co/PMD_0000790)": [
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)"
+    ],
+    "`indentation hardness`(https://w3id.org/pmd/co/PMD_0000789)": [
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)"
+    ],
+    "`forming under tensile conditions`(https://w3id.org/pmd/co/PMD_0000652)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`simulation process`(https://w3id.org/pmd/co/PMD_0000933)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`inheres in`(http://purl.obolibrary.org/obo/BFO_0000197)": [
+      "`independent continuant`(http://purl.obolibrary.org/obo/BFO_0000004)",
+      "`specifically dependent continuant`(http://purl.obolibrary.org/obo/BFO_0000020)"
+    ],
+    "`laboratory`(https://w3id.org/pmd/co/PMD_0000814)": [
+      "`laboratory role`(https://w3id.org/pmd/co/PMD_0000815)",
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)"
+    ],
+    "`behavioral material property`(https://w3id.org/pmd/co/PMD_0000005)": [
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`stimulated by`(https://w3id.org/pmd/co/PMD_0001030)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)"
+    ],
+    "`coating by welding`(https://w3id.org/pmd/co/PMD_0000566)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Beschichten`(https://w3id.org/pmd/co/PMD_0000563)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`removing`(https://w3id.org/pmd/co/PMD_0000914)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`accoustic absorption coefficient`(https://w3id.org/pmd/co/PMD_0000505)": [
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)"
+    ],
+    "`dividing`(https://w3id.org/pmd/co/PMD_0000614)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`coating from the ionized state`(https://w3id.org/pmd/co/PMD_0000571)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`brinell hardness`(https://w3id.org/pmd/co/PMD_0000537)": [
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)"
+    ],
+    "`Urformen Aus Dem Fl\u00fcssigen Zustand`(https://w3id.org/pmd/co/PMD_0000906)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`hardness`(https://w3id.org/pmd/co/PMD_0000773)": [
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)"
+    ],
+    "`supervised learning`(https://w3id.org/pmd/co/PMD_0000964)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`heat capacity`(https://w3id.org/pmd/co/PMD_0000777)": [
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)"
+    ],
+    "`melting process`(https://w3id.org/pmd/co/PMD_0000053)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`specifically depends on`(http://purl.obolibrary.org/obo/BFO_0000195)": [
+      "`specifically dependent continuant`(http://purl.obolibrary.org/obo/BFO_0000020)"
+    ],
+    "`obsolescence reason specification`(http://purl.obolibrary.org/obo/IAO_0000225)": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`accoustic property`(https://w3id.org/pmd/co/PMD_0000506)": [
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)"
+    ],
+    "`specimen`(http://purl.obolibrary.org/obo/OBI_0100051)": [
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`characteristic of`(http://purl.obolibrary.org/obo/RO_0000052)",
+      "`specimen role`(http://purl.obolibrary.org/obo/OBI_0000112)"
+    ],
+    "`joining by primary shaping`(https://w3id.org/pmd/co/PMD_0000807)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`coating from the liquid state`(https://w3id.org/pmd/co/PMD_0000572)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`forming under compressive and tensile conditions`(https://w3id.org/pmd/co/PMD_0000649)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`bulk modulus`(https://w3id.org/pmd/co/PMD_0000539)": [
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`stimulated by`(https://w3id.org/pmd/co/PMD_0001030)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)"
+    ],
+    "`morphological property`(https://w3id.org/pmd/co/PMD_0000864)": [
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`stimulated by`(https://w3id.org/pmd/co/PMD_0001030)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)"
+    ],
+    "`coating from the granular or powdery state`(https://w3id.org/pmd/co/PMD_0000570)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`thermomechanical treatment`(https://w3id.org/pmd/co/PMD_0000988)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`thermal conductivity`(https://w3id.org/pmd/co/PMD_0000978)": [
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)"
+    ],
+    "`Multiskalensimulation`(https://w3id.org/pmd/co/PMD_0000866)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`output assignment`(https://w3id.org/pmd/co/PMD_0000067)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`information content entity`(http://purl.obolibrary.org/obo/IAO_0000030)"
+    ],
+    "`deteriorative property`(https://w3id.org/pmd/co/PMD_0000600)": [
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`stimulated by`(https://w3id.org/pmd/co/PMD_0001030)"
+    ],
+    "`Assemblierungsprozess`(https://w3id.org/pmd/co/PMD_0000524)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`electrical conductivity`(https://w3id.org/pmd/co/PMD_0000620)": [
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)"
+    ],
+    "`structural material`(https://w3id.org/pmd/co/PMD_0000955)": [
+      "`function`(http://purl.obolibrary.org/obo/BFO_0000034)"
+    ],
+    "`Brennen`(https://w3id.org/pmd/co/PMD_0000540)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Reinigen`(https://w3id.org/pmd/co/PMD_0000560)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`mechanical property`(https://w3id.org/pmd/co/PMD_0000848)": [
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)"
+    ],
+    "`aging process`(https://w3id.org/pmd/co/PMD_0000513)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`composite material`(https://w3id.org/pmd/co/PMD_0000577)": [
+      "`consists of`(https://w3id.org/pmd/co/PMD_0020005)"
+    ],
+    "`steel`(https://w3id.org/pmd/co/PMD_0020096)": [
+      "`consists of`(https://w3id.org/pmd/co/PMD_0020005)"
+    ],
+    "`integral bearer of`(https://w3id.org/pmd/co/PMD_0020141)": [
+      "`specifically dependent continuant`(http://purl.obolibrary.org/obo/BFO_0000020)",
+      "`independent continuant`(http://purl.obolibrary.org/obo/BFO_0000004)"
+    ],
+    "`rebound hardness`(https://w3id.org/pmd/co/PMD_0000910)": [
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)"
+    ],
+    "`Spanen Mit Geometrisch Bestimmten Schneiden`(https://w3id.org/pmd/co/PMD_0000822)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Spanen Mit Geometrisch Unbestimmten Schneiden`(https://w3id.org/pmd/co/PMD_0000823)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`boiling point`(https://w3id.org/pmd/co/PMD_0000535)": [
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`change of phase`(https://w3id.org/pmd/co/PMD_0000548)"
+    ],
+    "`Druckumformen`(https://w3id.org/pmd/co/PMD_0000650)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Zusammensetzen`(https://w3id.org/pmd/co/PMD_0000578)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Beschichten Aus Dem Breiigen Oder Past\u00f6sen Zustand`(https://w3id.org/pmd/co/PMD_0000574)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`manufacturing process`(https://w3id.org/pmd/co/PMD_0000833)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Urformen Aus Dem Gasf\u00f6rmigen Oder Dampff\u00f6rmigen Zustand`(https://w3id.org/pmd/co/PMD_0000903)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Projekt`(https://w3id.org/pmd/co/PMD_0000909)": [
+      "`realizes`(http://purl.obolibrary.org/obo/BFO_0000055)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`disassembling`(https://w3id.org/pmd/co/PMD_0000612)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`monte carlo simulation`(https://w3id.org/pmd/co/PMD_0000862)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`F\u00fcllen`(https://w3id.org/pmd/co/PMD_0000641)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`thermal property`(https://w3id.org/pmd/co/PMD_0000981)": [
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)"
+    ],
+    "`Empirische Potential MD Simulation`(https://w3id.org/pmd/co/PMD_0000631)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`generative deep learning`(https://w3id.org/pmd/co/PMD_0000660)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`coarse grained simulation`(https://w3id.org/pmd/co/PMD_0000562)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`aggregate state`(https://w3id.org/pmd/co/PMD_0000512)": [
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)"
+    ],
+    "`magnetic property`(https://w3id.org/pmd/co/PMD_0000825)": [
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)"
+    ],
+    "`Beschichten Aus Dem Plastischen Zustand`(https://w3id.org/pmd/co/PMD_0000573)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`atomistic monte carlo simulation`(https://w3id.org/pmd/co/PMD_0000527)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`primary shaping from the plastic state`(https://w3id.org/pmd/co/PMD_0000907)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`department`(https://w3id.org/pmd/co/PMD_0000598)": [
+      "`has role`(http://purl.obolibrary.org/obo/RO_0000087)",
+      "`department role`(https://w3id.org/pmd/co/PMD_0000599)"
+    ],
+    "`triple point`(https://w3id.org/pmd/co/PMD_0000996)": [
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`change of phase`(https://w3id.org/pmd/co/PMD_0000548)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)"
+    ],
+    "`computing process`(https://w3id.org/pmd/co/PMD_0000583)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Urformen Aus Dem Breiigen Oder Past\u00f6sen Zustand`(https://w3id.org/pmd/co/PMD_0000908)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`F\u00fcgen Durch Schwei\u00dfen`(https://w3id.org/pmd/co/PMD_0000810)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`melting point`(https://w3id.org/pmd/co/PMD_0000851)": [
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`change of phase`(https://w3id.org/pmd/co/PMD_0000548)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)"
+    ],
+    "`primary shaping from the ionized state`(https://w3id.org/pmd/co/PMD_0000905)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`optical property`(https://w3id.org/pmd/co/PMD_0000877)": [
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)"
+    ],
+    "`denotator type`(http://purl.obolibrary.org/obo/IAO_0000409)": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`elastic modulus`(https://w3id.org/pmd/co/PMD_0000618)": [
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`stimulated by`(https://w3id.org/pmd/co/PMD_0001030)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)"
+    ],
+    "`ab initio molecular dynamics simulation`(https://w3id.org/pmd/co/PMD_0000504)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`strength`(https://w3id.org/pmd/co/PMD_0000952)": [
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`stimulating process`(https://w3id.org/pmd/co/PMD_0000950)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)"
+    ],
+    "`glueing`(https://w3id.org/pmd/co/PMD_0000662)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)"
+    ],
+    "`Unsupervised Learning`(https://w3id.org/pmd/co/PMD_0001003)": [
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`reflectivity`(https://w3id.org/pmd/co/PMD_0000911)": [
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)"
+    ],
+    "`time measurement datum`(http://purl.obolibrary.org/obo/IAO_0000416)": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`value specification`(http://purl.obolibrary.org/obo/OBI_0001933)",
+      "`has value specification`(http://purl.obolibrary.org/obo/OBI_0001938)"
+    ],
+    "`input assignment`(https://w3id.org/pmd/co/PMD_0000066)": [
+      "`information content entity`(http://purl.obolibrary.org/obo/IAO_0000030)",
+      "`plan`(https://w3id.org/pmd/co/PMD_0000014)",
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`crystal structure`(https://w3id.org/pmd/co/PMD_0000591)": [
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)"
+    ],
+    "`stimulates`(https://w3id.org/pmd/co/PMD_0001031)": [
+      "`responds with`(https://w3id.org/pmd/co/PMD_0001029)",
+      "`responding process`(https://w3id.org/pmd/co/PMD_0000915)",
+      "`temporal region`(http://purl.obolibrary.org/obo/BFO_0000008)",
+      "`stimulated by`(https://w3id.org/pmd/co/PMD_0001030)",
+      "`occupies temporal region`(http://purl.obolibrary.org/obo/BFO_0000199)"
+    ]
+  },
+  "plus": {
+    "`Hochdurchsatzsimulation`(https://w3id.org/pmd/co/PMD_0000783)": [
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)"
+    ],
+    "`Anpressen - Einpressen`(https://w3id.org/pmd/co/PMD_0000895)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Textiles F\u00fcgen`(https://w3id.org/pmd/co/PMD_0000977)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025998": [
+      "`relational quality`(http://purl.obolibrary.org/obo/BFO_0000145)"
+    ],
+    "`Deep Learning`(https://w3id.org/pmd/co/PMD_0000594)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)"
+    ],
+    "`machine learning`(https://w3id.org/pmd/co/PMD_0000821)": [
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_1000164": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`Stoffeigenschaft \u00c4ndern`(https://w3id.org/pmd/co/PMD_0000550)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Urformen Aus Dem Spanf\u00f6rmigen Oder Faserf\u00f6rmigen Zustand`(https://w3id.org/pmd/co/PMD_0000902)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`structural optimization simulation`(https://w3id.org/pmd/co/PMD_0000956)": [
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)"
+    ],
+    "`Verfestigen Durch Umformen`(https://w3id.org/pmd/co/PMD_0000772)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`heat treatment`(https://w3id.org/pmd/co/PMD_0000779)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025002": [
+      "`chemical composition`(https://w3id.org/pmd/co/PMD_0000551)",
+      "`is concretized as`(http://purl.obolibrary.org/obo/RO_0000058)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`Bestrahlen`(https://w3id.org/pmd/co/PMD_0000801)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`conditioning process`(https://w3id.org/pmd/co/PMD_0000584)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`joining`(https://w3id.org/pmd/co/PMD_0000806)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`reinforcement learning`(https://w3id.org/pmd/co/PMD_0000913)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)"
+    ],
+    "`Sintern`(https://w3id.org/pmd/co/PMD_0000934)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`joining by soldering`(https://w3id.org/pmd/co/PMD_0000809)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`coating from the gaseous or vapour state`(https://w3id.org/pmd/co/PMD_0000569)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Urformen Aus Dem K\u00f6rnerf\u00f6rmigen Oder Pulverf\u00f6rmigen Zustand`(https://w3id.org/pmd/co/PMD_0000904)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`forming`(https://w3id.org/pmd/co/PMD_0000646)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`photochemical process`(https://w3id.org/pmd/co/PMD_0000883)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`magnetizing`(https://w3id.org/pmd/co/PMD_0000826)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`sublimation point`(https://w3id.org/pmd/co/PMD_0000961)": [
+      "`change of aggregate state`(https://w3id.org/pmd/co/PMD_0000547)"
+    ],
+    "`Multimodales Deep Learning`(https://w3id.org/pmd/co/PMD_0000865)": [
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)"
+    ],
+    "`simulation entity role`(https://w3id.org/pmd/co/PMD_0000051)": [
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`phase boundary`(https://w3id.org/pmd/co/PMD_0000882)": [
+      "`change of aggregate state`(https://w3id.org/pmd/co/PMD_0000547)"
+    ],
+    "`forming under shearing conditions`(https://w3id.org/pmd/co/PMD_0000651)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`coating by soldering`(https://w3id.org/pmd/co/PMD_0000565)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`quality of`(http://purl.obolibrary.org/obo/RO_0000080)": [
+      "`quality`(http://purl.obolibrary.org/obo/BFO_0000019)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_0000164": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`ferrous alloy`(https://w3id.org/pmd/co/PMD_0000639)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)"
+    ],
+    "`Urformen Durch Additive Fertigung`(https://w3id.org/pmd/co/PMD_0000900)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`F\u00fcgen Durch Umformen`(https://w3id.org/pmd/co/PMD_0000808)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`forming by bending`(https://w3id.org/pmd/co/PMD_0000647)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Urformen Durch Schweissen`(https://w3id.org/pmd/co/PMD_0000901)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`primary shaping`(https://w3id.org/pmd/co/PMD_0000899)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`forming under tensile conditions`(https://w3id.org/pmd/co/PMD_0000652)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`simulation process`(https://w3id.org/pmd/co/PMD_0000933)": [
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`functional material`(https://w3id.org/pmd/co/PMD_0000654)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`engineered material`(https://w3id.org/pmd/co/PMD_0000002)"
+    ],
+    "`behavioral material property`(https://w3id.org/pmd/co/PMD_0000005)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`coating by welding`(https://w3id.org/pmd/co/PMD_0000566)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Beschichten`(https://w3id.org/pmd/co/PMD_0000563)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`coating from the ionized state`(https://w3id.org/pmd/co/PMD_0000571)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Urformen Aus Dem Fl\u00fcssigen Zustand`(https://w3id.org/pmd/co/PMD_0000906)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_1000076": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`chemical composition specification`(https://w3id.org/pmd/co/PMD_0020004)": [
+      "https://w3id.org/pmd/co/PMD_0025001",
+      "`is concretized as`(http://purl.obolibrary.org/obo/RO_0000058)"
+    ],
+    "`supervised learning`(https://w3id.org/pmd/co/PMD_0000964)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)"
+    ],
+    "`melting process`(https://w3id.org/pmd/co/PMD_0000053)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`joining by primary shaping`(https://w3id.org/pmd/co/PMD_0000807)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`W\u00e4rmebehandlungsger\u00e4t`(https://w3id.org/pmd/co/PMD_0000780)": [
+      "`function`(http://purl.obolibrary.org/obo/BFO_0000034)",
+      "`has function`(http://purl.obolibrary.org/obo/RO_0000085)"
+    ],
+    "`coating from the liquid state`(https://w3id.org/pmd/co/PMD_0000572)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`forming under compressive and tensile conditions`(https://w3id.org/pmd/co/PMD_0000649)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_1000163": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025003": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`metallic grain structures`(https://w3id.org/pmd/co/PMD_0020023)"
+    ],
+    "`morphological property`(https://w3id.org/pmd/co/PMD_0000864)": [
+      "`process`(http://purl.obolibrary.org/obo/BFO_0000015)"
+    ],
+    "`coating from the granular or powdery state`(https://w3id.org/pmd/co/PMD_0000570)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`thermomechanical treatment`(https://w3id.org/pmd/co/PMD_0000988)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Multiskalensimulation`(https://w3id.org/pmd/co/PMD_0000866)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)"
+    ],
+    "`output assignment`(https://w3id.org/pmd/co/PMD_0000067)": [
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)"
+    ],
+    "`deteriorative property`(https://w3id.org/pmd/co/PMD_0000600)": [
+      "`has realization`(http://purl.obolibrary.org/obo/BFO_0000054)"
+    ],
+    "`Assemblierungsprozess`(https://w3id.org/pmd/co/PMD_0000524)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`structural material`(https://w3id.org/pmd/co/PMD_0000955)": [
+      "`part of`(http://purl.obolibrary.org/obo/BFO_0000050)",
+      "`mechanical function`(http://purl.obolibrary.org/obo/OBI_0000379)",
+      "`functional material`(https://w3id.org/pmd/co/PMD_0000654)",
+      "`engineered material`(https://w3id.org/pmd/co/PMD_0000002)"
+    ],
+    "`Brennen`(https://w3id.org/pmd/co/PMD_0000540)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_0000163": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`bravais lattice (3d)`(https://w3id.org/pmd/co/PMD_0020099)": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`aging process`(https://w3id.org/pmd/co/PMD_0000513)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`composite material`(https://w3id.org/pmd/co/PMD_0000577)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)"
+    ],
+    "`steel`(https://w3id.org/pmd/co/PMD_0020096)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025004": [
+      "`metallic bond`(https://w3id.org/pmd/co/PMD_0050002)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`engineered material`(https://w3id.org/pmd/co/PMD_0000002)",
+      "`crystal`(https://w3id.org/pmd/co/PMD_0020003)",
+      "`has characteristic`(http://purl.obolibrary.org/obo/RO_0000053)"
+    ],
+    "`metallic grain structures`(https://w3id.org/pmd/co/PMD_0020023)": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0025997": [
+      "`is concretized as`(http://purl.obolibrary.org/obo/RO_0000058)",
+      "https://w3id.org/pmd/co/PMD_0020140",
+      "`material`(https://w3id.org/pmd/co/PMD_0000000)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "https://w3id.org/pmd/co/PMD_0025001",
+      "`specifies value of`(http://purl.obolibrary.org/obo/OBI_0001927)",
+      "`chemical composition specification`(https://w3id.org/pmd/co/PMD_0020004)"
+    ],
+    "`boiling point`(https://w3id.org/pmd/co/PMD_0000535)": [
+      "`change of aggregate state`(https://w3id.org/pmd/co/PMD_0000547)"
+    ],
+    "`Druckumformen`(https://w3id.org/pmd/co/PMD_0000650)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Zusammensetzen`(https://w3id.org/pmd/co/PMD_0000578)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Beschichten Aus Dem Breiigen Oder Past\u00f6sen Zustand`(https://w3id.org/pmd/co/PMD_0000574)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`manufacturing process`(https://w3id.org/pmd/co/PMD_0000833)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Urformen Aus Dem Gasf\u00f6rmigen Oder Dampff\u00f6rmigen Zustand`(https://w3id.org/pmd/co/PMD_0000903)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`monte carlo simulation`(https://w3id.org/pmd/co/PMD_0000862)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)"
+    ],
+    "`F\u00fcllen`(https://w3id.org/pmd/co/PMD_0000641)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Empirische Potential MD Simulation`(https://w3id.org/pmd/co/PMD_0000631)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`generative deep learning`(https://w3id.org/pmd/co/PMD_0000660)": [
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_0000076": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`coarse grained simulation`(https://w3id.org/pmd/co/PMD_0000562)": [
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`aggregate state`(https://w3id.org/pmd/co/PMD_0000512)": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`Beschichten Aus Dem Plastischen Zustand`(https://w3id.org/pmd/co/PMD_0000573)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`aggregate state value`(https://w3id.org/pmd/co/PMD_0020116)": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`atomistic monte carlo simulation`(https://w3id.org/pmd/co/PMD_0000527)": [
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)"
+    ],
+    "`primary shaping from the plastic state`(https://w3id.org/pmd/co/PMD_0000907)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`triple point`(https://w3id.org/pmd/co/PMD_0000996)": [
+      "`change of aggregate state`(https://w3id.org/pmd/co/PMD_0000547)"
+    ],
+    "`computing process`(https://w3id.org/pmd/co/PMD_0000583)": [
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)"
+    ],
+    "`Urformen Aus Dem Breiigen Oder Past\u00f6sen Zustand`(https://w3id.org/pmd/co/PMD_0000908)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`F\u00fcgen Durch Schwei\u00dfen`(https://w3id.org/pmd/co/PMD_0000810)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`melting point`(https://w3id.org/pmd/co/PMD_0000851)": [
+      "`change of aggregate state`(https://w3id.org/pmd/co/PMD_0000547)"
+    ],
+    "http://purl.obolibrary.org/obo/UO_0000000": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ],
+    "`primary shaping from the ionized state`(https://w3id.org/pmd/co/PMD_0000905)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`ab initio molecular dynamics simulation`(https://w3id.org/pmd/co/PMD_0000504)": [
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)"
+    ],
+    "https://w3id.org/pmd/co/PMD_0000778": [
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`realizes`(http://purl.obolibrary.org/obo/BFO_0000055)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)"
+    ],
+    "`glueing`(https://w3id.org/pmd/co/PMD_0000662)": [
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)"
+    ],
+    "`Unsupervised Learning`(https://w3id.org/pmd/co/PMD_0001003)": [
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)"
+    ],
+    "`input assignment`(https://w3id.org/pmd/co/PMD_0000066)": [
+      "`action specification`(http://purl.obolibrary.org/obo/IAO_0000007)",
+      "`objective specification`(http://purl.obolibrary.org/obo/IAO_0000005)",
+      "`realizable entity`(http://purl.obolibrary.org/obo/BFO_0000017)",
+      "`plan specification`(http://purl.obolibrary.org/obo/IAO_0000104)",
+      "`has part`(http://purl.obolibrary.org/obo/BFO_0000051)",
+      "`concretizes`(http://purl.obolibrary.org/obo/RO_0000059)"
+    ],
+    "`crystal structure`(https://w3id.org/pmd/co/PMD_0000591)": [
+      "`is about`(http://purl.obolibrary.org/obo/IAO_0000136)"
+    ]
+  }
+}
